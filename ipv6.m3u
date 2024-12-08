@@ -1304,17 +1304,13 @@ https://025365.xyz:8082/jstv.php?id=jscs
 https://025365.xyz:8082/jstv.php?id=jszy
 #EXTINF:-1 tvg-id="JS03" tvg-name="江苏影视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu4.png" group-title="地方频道",江苏影视
 https://025365.xyz:8082/jstv.php?id=jsys
-#EXTINF:-1 tvg-id="JS04" tvg-name="江苏教育" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu7.png" group-title="地方频道",江苏教育
+#EXTINF:-1 tvg-id="JS04" tvg-name="江苏国际" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu7.png" group-title="地方频道",江苏国际
 https://025365.xyz:8082/jstv.php?id=jsjy
-#EXTINF:-1 tvg-id="JS05" tvg-name="江苏体育休闲" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu5.png" group-title="地方频道",江苏体育休闲
+#EXTINF:-1 tvg-id="JS05" tvg-name="江苏教育" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu5.png" group-title="地方频道",江苏教育
 https://025365.xyz:8082/jstv.php?id=jsty
-#EXTINF:-1 tvg-id="JS06" tvg-name="江苏6" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu5.png" group-title="地方频道",江苏6
-https://025365.xyz:8082/jstv.php?id=jsgj
+#EXTINF:-1 tvg-id="JS06" tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu5.png" group-title="地方频道",江苏卫视
+https://025365.xyz:8082/jstv.php?id=jsws
 
-#EXTINF:-1 tvg-id="JS07" tvg-name="江苏7" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu5.png" group-title="地方频道",江苏7
-https://025365.xyz:8082/jstv.php?id=ymkt
-#EXTINF:-1 tvg-id="JS06" tvg-name="江苏8" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Jiangsu5.png" group-title="地方频道",江苏8
-https://025365.xyz:8082/jstv.php?id=hxgw
 
 
 

@@ -51,10 +51,12 @@ CCTV高尔夫球,http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_c
 文化精品,http://wouu.net:9977/udp/239.93.42.47:5140
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 电视指南,http://60.10.225.157:555/rtp/239.253.93.249:6427
+CETV1,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 CETV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8
 CETV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8
 CETV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
+CETV4,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 CETV4,#http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 中国天气,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
@@ -68,8 +70,6 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-中国教育1,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-中国教育4,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 
 卫视频道,#genre#
 北京卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId=
@@ -176,6 +176,14 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 江苏国际,https://025365.xyz:8082/jstv.php?id=jsjy
 江苏教育,https://025365.xyz:8082/jstv.php?id=jsty
 江苏卫视,https://025365.xyz:8082/jstv.php?id=jsws
+南京新闻,http://159.75.85.63:36666/migu/838109047.m3u8?migutoken=6d02ada5111e1c242367924a186dee61e71153e27ff05ebf483408afbade7e1a42aadf6ff4dbfa577fb3b1b9f56f3df70b3144f1cbdb84d2bdbc19a9d15527ea8d42c658757d9521fe391f0f11
+南京教科,http://159.75.85.63:36666/migu/838153729.m3u8?migutoken=39a3785d44d4e1b084ec90acb28bc3e31ac53c5773ab61e302e0ac58e0fc0b3961467231d04119281c61f1871cc5e3e1dd8eb443b5e3f60768fcf9764f3e1d1d495be42592b24958fc5632203d
+南京十八,http://159.75.85.63:36666/migu/838151753.m3u8?migutoken=2dc875d41fe191848137e116ce726d9aa700e19f657a047e41f1febf49c686826fa997d5121ee174f7180029c2d7aaa1b815e0c9397b63e91c39ae846487380997cfeb174a668300939a61d5ac
+江苏城市,http://159.75.85.63:36666/migu/626064714.m3u8?migutoken=d3c94b0196507d8428655f70670af2c6ea45199f9498903c5d6debc0584d9de27542068fa7b88633308355101d6bb912e3d2887728edbe6d4b6474df5eae9dc7afffa0f8aef7ac904ae2e25055
+江苏国际,http://159.75.85.63:36666/migu/626064674.m3u8?migutoken=e5cdbc320181be4ffc1b1250a5756934063a7c12884680b1a3d2c45216d781a128fc9fc308d44aa5dc05a038e28b483dcb6e48403cb6fd3d715c314da05de3bb20ba3cda346d569e4d0765c199
+江苏教育,http://159.75.85.63:36666/migu/628008321.m3u8?migutoken=48117648320d08f36b38555b8e30241ee1809f729b3a1288811d790a1e8ce7c94bbef45d14a861b2d6b4d900f9d3d832944619aeaf3256b4df3c947b08facf86597c36d10009330d28bfb4639c
+江苏影视,http://159.75.85.63:36666/migu/626064697.m3u8?migutoken=ae74e65a68b96dba3290d052c5c03011aa51654de1ef85afd8786fddc87c6ac80aacd37d02ed7d9fae948fe16b32721c7bf2d77af3140fa5087227673c5d8976aadc1cfe65af98ce8e3edaa59e
+江苏综艺,http://159.75.85.63:36666/migu/626065193.m3u8?migutoken=57a6600f561b12ce4315746648b6edc13d1a5ada2fa8d69191a04b023f75cd36e6096c53938b255454c9fcef2e120e171037e42aebf21e96e438af76164e98dd924557c0035d5de0e623d1ff28
 
 
 数字频道,#genre#
@@ -247,22 +255,13 @@ CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
-澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 莲花卫视,http://php.jdshipin.com:8880/amlh.php
-无线新闻,http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn
 无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT
-明珠台,http://bziyunshao.synology.me:8890/bysid/2
-TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-TVBJ2,http://bziyunshao.synology.me:8890/bysid/82
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 TVBS,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 TVBS新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv072

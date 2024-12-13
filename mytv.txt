@@ -65,27 +65,15 @@ CCTV15,http://159.75.85.63:36666/migu/673168223.m3u8?migutoken=363d6e39ef348bbc2
 CCTV17,http://159.75.85.63:36666/migu/673168256.m3u8?migutoken=ff14e0d8f326bd4db09b0eb5a513de9411ca4011a7e89e4417cabf859c14cbee83ee0f279c82f6acaa8cb5d80c679f0cf904489b9ff0f427704557360c46398bf06cdfce02aabab54e2da59e75
 CCTV4欧洲,http://159.75.85.63:36666/migu/608807419.m3u8?migutoken=901e49a817078eb73fed1223eed364366d8c3663974893782c2753201e021a1229b8a80affc72d8cc1ff11799ac7512c3d76689cce6f2922fd3c80bb5af0c7656134726059e0a19051de5600a1
 CCTV4美洲,http://159.75.85.63:36666/migu/608807416.m3u8?migutoken=6e63bb957e7a7a586c3bb9e034114eed7600d1f78d593144e513300359c43b10a47bed77394dfaa20f821c9c3fa2492874691f480632ce24cf1f9c68fdb5d9de9c8b27ef26d83b757654bd8fb6
-兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8
-第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
-央视台球,http://222.169.41.210:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV高尔夫球,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000094/index.m3u8
+
+CCTV高尔夫球,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000094/index.m3u8?
 CCTV高尔夫球,http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_cid=9900000094
-高尔夫网球,http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
-风云音乐,http://60.10.225.157:555/rtp/239.253.93.253:6431
-风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429
-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
-文化精品,http://wouu.net:9977/udp/239.93.42.47:5140
-女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
-电视指南,http://60.10.225.157:555/rtp/239.253.93.249:6427
 CETV1,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 CETV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8
 CETV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8
-CETV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
 CETV4,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 CETV4,#http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
+CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 中国天气,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
 
@@ -127,6 +115,8 @@ CCTV16,http://3ad2a0.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
 CCTV17,http://3ad2a0.tv.netsite.cc/proxy/199561397/199561397.m3u8
 
 卫视频道,#genre#
+
+凤凰卫视,http://3ad2a0.tv.netsite.cc/proxy/1650326537/1650326537.m3u8
 北京卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId=
 湖南卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId=
 东方卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8?IASHttpSessionId=

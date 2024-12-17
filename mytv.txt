@@ -67,8 +67,6 @@ CCTV-5+,https://tvbox.nat.netsite.cc:8043/proxy/485668034/485668034.m3u8
 CCTV-5+,http://d0bf2d.tv.netsite.cc/proxy/485668034/485668034.m3u8
 CCTV-6,https://tvbox.nat.netsite.cc:8043/proxy/584456678/584456678.m3u8
 CCTV-6,http://d0bf2d.tv.netsite.cc/proxy/584456678/584456678.m3u8
-1905-电影网,https://tvbox.nat.netsite.cc:8043/proxy/1747360543/1747360543.m3u8
-1905-电影网,http://d0bf2d.tv.netsite.cc/proxy/1747360543/1747360543.m3u8
 CCTV-7,https://tvbox.nat.netsite.cc:8043/proxy/1163485033/1163485033.m3u8
 CCTV-7,http://d0bf2d.tv.netsite.cc/proxy/1163485033/1163485033.m3u8
 CCTV-8,https://tvbox.nat.netsite.cc:8043/proxy/366510833/366510833.m3u8
@@ -111,44 +109,34 @@ CCTV13,http://61.150.67.62:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&au
 CCTV14,http://61.150.67.62:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://61.150.67.62:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV1,http://117.90.196.35:6000/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://117.90.196.35:6000/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://117.90.196.35:6000/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://117.90.196.35:6000/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://117.90.196.35:6000/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://117.90.196.35:6000/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://117.90.196.35:6000/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://117.90.196.35:6000/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://117.90.196.35:6000/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://117.90.196.35:6000/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://117.90.196.35:6000/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://117.90.196.35:6000/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://117.90.196.35:6000/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 CCTV高尔夫球,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000094/index.m3u8?
 CCTV高尔夫球,http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_cid=9900000094
+
+CGTN阿语,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
+CGTN俄语,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
+CGTN法语,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
+CGTN西语,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
+CETV1,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+CETV4,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 CETV1,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 CETV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8
 CETV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8
 CETV4,#http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 CETV4,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-CETV4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
+
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 中国天气,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
 
-CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN,http://3ad2a0.tv.netsite.cc/proxy/1162774257/1162774257.m3u8
-CGTN法语,http://3ad2a0.tv.netsite.cc/proxy/897976963/897976963.m3u8
-CGTN俄语,http://3ad2a0.tv.netsite.cc/proxy/742102579/742102579.m3u8
-CGTN阿语,http://3ad2a0.tv.netsite.cc/proxy/1846633731/1846633731.m3u8
-CGTN西语,http://3ad2a0.tv.netsite.cc/proxy/1194246781/1194246781.m3u8
-CGTN记录,http://3ad2a0.tv.netsite.cc/proxy/634350026/634350026.m3u8
+
+CGTN,https://tvbox.nat.netsite.cc:8043/proxy/1162774257/1162774257.m3u8
+CGTN法语,https://tvbox.nat.netsite.cc:8043/proxy/897976963/897976963.m3u8
+CGTN俄语,https://tvbox.nat.netsite.cc:8043/proxy/742102579/742102579.m3u8
+CGTN阿语,https://tvbox.nat.netsite.cc:8043/proxy/1846633731/1846633731.m3u8
+CGTN西语,https://tvbox.nat.netsite.cc:8043/proxy/1194246781/1194246781.m3u8
+CGTN记录,https://tvbox.nat.netsite.cc:8043/proxy/634350026/634350026.m3u8
 CGTN俄语,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 CGTN法语,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
 CGTN西语,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
@@ -435,19 +423,19 @@ CCTV4美洲,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte
 钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
-上海外语,http://3ad2a0.tv.netsite.cc/proxy/1701776112/1701776112.m3u8
-第一财经,http://3ad2a0.tv.netsite.cc/proxy/1946402424/1946402424.m3u8
-纪实人文,http://3ad2a0.tv.netsite.cc/proxy/1975883896/1975883896.m3u8
-点掌财经,http://3ad2a0.tv.netsite.cc/proxy/1577752441/1577752441.m3u8
-浙江卫视,http://3ad2a0.tv.netsite.cc/proxy/2059640241/2059640241.m3u8
-钱江都市,http://3ad2a0.tv.netsite.cc/proxy/2044904392/2044904392.m3u8
-浙江经济生活,http://3ad2a0.tv.netsite.cc/proxy/1529435983/1529435983.m3u8
-浙江民生休闲,http://3ad2a0.tv.netsite.cc/proxy/991769224/991769224.m3u8
-浙江新闻,http://3ad2a0.tv.netsite.cc/proxy/2053951003/2053951003.m3u8
-浙江教科影视,http://3ad2a0.tv.netsite.cc/proxy/833196700/833196700.m3u8
-浙江少儿,http://3ad2a0.tv.netsite.cc/proxy/1658458613/1658458613.m3u8
-浙江国际,http://3ad2a0.tv.netsite.cc/proxy/2031903078/2031903078.m3u8
-之江记录,http://3ad2a0.tv.netsite.cc/proxy/1044187699/1044187699.m3u8
+上海外语,https://tvbox.nat.netsite.cc:8043/proxy/1701776112/1701776112.m3u8
+第一财经,https://tvbox.nat.netsite.cc:8043/proxy/1946402424/1946402424.m3u8
+纪实人文,https://tvbox.nat.netsite.cc:8043/proxy/1975883896/1975883896.m3u8
+点掌财经,https://tvbox.nat.netsite.cc:8043/proxy/1577752441/1577752441.m3u8
+浙江卫视,https://tvbox.nat.netsite.cc:8043/proxy/2059640241/2059640241.m3u8
+钱江都市,https://tvbox.nat.netsite.cc:8043/proxy/2044904392/2044904392.m3u8
+浙江经济生活,https://tvbox.nat.netsite.cc:8043/proxy/1529435983/1529435983.m3u8
+浙江民生休闲,https://tvbox.nat.netsite.cc:8043/proxy/991769224/991769224.m3u8
+浙江新闻,https://tvbox.nat.netsite.cc:8043/proxy/2053951003/2053951003.m3u8
+浙江教科影视,https://tvbox.nat.netsite.cc:8043/proxy/833196700/833196700.m3u8
+浙江少儿,https://tvbox.nat.netsite.cc:8043/proxy/1658458613/1658458613.m3u8
+浙江国际,https://tvbox.nat.netsite.cc:8043/proxy/2031903078/2031903078.m3u8
+之江记录,https://tvbox.nat.netsite.cc:8043/proxy/1044187699/1044187699.m3u8
 
 
 江苏新闻,https://025365.xyz:8082/jstv.php?id=jsxw
@@ -490,7 +478,8 @@ CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 求索科学,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 漫威电影,http://jiaojirentv.top/2020/dy.php?id=6140589
-1905电影网,http://3ad2a0.tv.netsite.cc/proxy/1747360543/1747360543.m3u8
+
+1905电影网,https://tvbox.nat.netsite.cc:8043/proxy/1747360543/1747360543.m3u8
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 峨眉电影,http://wouu.net:9977/udp/239.93.0.252:5140
@@ -504,12 +493,12 @@ CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 快乐垂钓,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000648/index.m3u8?IASHttpSessionId=
 先锋乒羽,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000650/index.m3u8?IASHttpSessionId=
 
-金鹰纪实,http://3ad2a0.tv.netsite.cc/proxy/46690299/46690299.m3u8
-金鹰卡通,http://3ad2a0.tv.netsite.cc/proxy/1947104640/1947104640.m3u8
-国际频道,http://3ad2a0.tv.netsite.cc/proxy/1627651873/1627651873.m3u8
-茶频道,http://3ad2a0.tv.netsite.cc/proxy/1322311734/1322311734.m3u8
-快乐垂钓,http://3ad2a0.tv.netsite.cc/proxy/316113716/316113716.m3u8
-先锋乒羽,http://3ad2a0.tv.netsite.cc/proxy/1789306185/1789306185.m3u8
+金鹰纪实,https://tvbox.nat.netsite.cc:8043/proxy/46690299/46690299.m3u8
+金鹰卡通,https://tvbox.nat.netsite.cc:8043/proxy/1947104640/1947104640.m3u8
+国际频道,https://tvbox.nat.netsite.cc:8043/proxy/1627651873/1627651873.m3u8
+茶频道,https://tvbox.nat.netsite.cc:8043/proxy/1322311734/1322311734.m3u8
+快乐垂钓,https://tvbox.nat.netsite.cc:8043/proxy/316113716/316113716.m3u8
+先锋乒羽,https://tvbox.nat.netsite.cc:8043/proxy/1789306185/1789306185.m3u8
 
 武术世界,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000657/index.m3u8?IASHttpSessionId=
 文物宝库,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000658/index.m3u8?IASHttpSessionId=

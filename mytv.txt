@@ -2,23 +2,6 @@
 
 
 
-
-CCTV1,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000001/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000017
-CCTV2,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000222
-CCTV3,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000003/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000000
-CCTV4,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000503/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000056
-CCTV5,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000005/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000093
-CCTV5+,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m3u8
-CCTV6,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000006/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000223
-CCTV7,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000504/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000720
-CCTV8,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000008/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000582
-CCTV9,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000505/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000410
-CCTV10,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000156
-CCTV11,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000512
-CCTV12,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000509/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000287
-CCTV13,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000510/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000010
-CCTV14,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000363
-
 CCTV1,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
 CCTV2,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000014161/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
 CCTV3,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3
@@ -51,46 +34,63 @@ CCTV17,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000513
 
 
 
-CCTV-4k,https://tvbox.nat.netsite.cc:8043/proxy/1810627534/1810627534.m3u8
-CCTV-4k,http://d0bf2d.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
-CCTV-1,https://tvbox.nat.netsite.cc:8043/proxy/1387573383/1387573383.m3u8
-CCTV-1,http://d0bf2d.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
-CCTV-2,https://tvbox.nat.netsite.cc:8043/proxy/1865857764/1865857764.m3u8
-CCTV-2,http://d0bf2d.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
-CCTV-3,https://tvbox.nat.netsite.cc:8043/proxy/781829366/781829366.m3u8
-CCTV-3,http://d0bf2d.tv.netsite.cc/proxy/781829366/781829366.m3u8
-CCTV-4,https://tvbox.nat.netsite.cc:8043/proxy/1431251767/1431251767.m3u8
-CCTV-4,http://d0bf2d.tv.netsite.cc/proxy/1431251767/1431251767.m3u8
-CCTV-5,https://tvbox.nat.netsite.cc:8043/proxy/2118762958/2118762958.m3u8
-CCTV-5,http://d0bf2d.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
-CCTV-5+,https://tvbox.nat.netsite.cc:8043/proxy/485668034/485668034.m3u8
-CCTV-5+,http://d0bf2d.tv.netsite.cc/proxy/485668034/485668034.m3u8
-CCTV-6,https://tvbox.nat.netsite.cc:8043/proxy/584456678/584456678.m3u8
-CCTV-6,http://d0bf2d.tv.netsite.cc/proxy/584456678/584456678.m3u8
-CCTV-7,https://tvbox.nat.netsite.cc:8043/proxy/1163485033/1163485033.m3u8
-CCTV-7,http://d0bf2d.tv.netsite.cc/proxy/1163485033/1163485033.m3u8
-CCTV-8,https://tvbox.nat.netsite.cc:8043/proxy/366510833/366510833.m3u8
-CCTV-8,http://d0bf2d.tv.netsite.cc/proxy/366510833/366510833.m3u8
-CCTV-9,https://tvbox.nat.netsite.cc:8043/proxy/675916385/675916385.m3u8
-CCTV-9,http://d0bf2d.tv.netsite.cc/proxy/675916385/675916385.m3u8
-CCTV-10,https://tvbox.nat.netsite.cc:8043/proxy/2131132936/2131132936.m3u8
-CCTV-10,http://d0bf2d.tv.netsite.cc/proxy/2131132936/2131132936.m3u8
-CCTV-11,https://tvbox.nat.netsite.cc:8043/proxy/421024024/421024024.m3u8
-CCTV-11,http://d0bf2d.tv.netsite.cc/proxy/421024024/421024024.m3u8
-CCTV-12,https://tvbox.nat.netsite.cc:8043/proxy/1321786312/1321786312.m3u8
-CCTV-12,http://d0bf2d.tv.netsite.cc/proxy/1321786312/1321786312.m3u8
-CCTV-13,https://tvbox.nat.netsite.cc:8043/proxy/1942371728/1942371728.m3u8
-CCTV-13,http://d0bf2d.tv.netsite.cc/proxy/1942371728/1942371728.m3u8
-CCTV-14,https://tvbox.nat.netsite.cc:8043/proxy/512439688/512439688.m3u8
-CCTV-14,http://d0bf2d.tv.netsite.cc/proxy/512439688/512439688.m3u8
-CCTV-15,https://tvbox.nat.netsite.cc:8043/proxy/323678478/323678478.m3u8
-CCTV-15,http://d0bf2d.tv.netsite.cc/proxy/323678478/323678478.m3u8
-CCTV-16,https://tvbox.nat.netsite.cc:8043/proxy/2055404079/2055404079.m3u8
-CCTV-16,http://d0bf2d.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
-CCTV-17,https://tvbox.nat.netsite.cc:8043/proxy/199561397/199561397.m3u8
-CCTV-17,http://d0bf2d.tv.netsite.cc/proxy/199561397/199561397.m3u8
+CCTV4k,https://tvbox.nat.netsite.cc:8043/proxy/1810627534/1810627534.m3u8
+CCTV4k,http://d0bf2d.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
+CCTV1,https://tvbox.nat.netsite.cc:8043/proxy/1387573383/1387573383.m3u8
+CCTV1,http://d0bf2d.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
+CCTV2,https://tvbox.nat.netsite.cc:8043/proxy/1865857764/1865857764.m3u8
+CCTV2,http://d0bf2d.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
+CCTV3,https://tvbox.nat.netsite.cc:8043/proxy/781829366/781829366.m3u8
+CCTV3,http://d0bf2d.tv.netsite.cc/proxy/781829366/781829366.m3u8
+CCTV4,https://tvbox.nat.netsite.cc:8043/proxy/1431251767/1431251767.m3u8
+CCTV4,http://d0bf2d.tv.netsite.cc/proxy/1431251767/1431251767.m3u8
+CCTV5,https://tvbox.nat.netsite.cc:8043/proxy/2118762958/2118762958.m3u8
+CCTV5,http://d0bf2d.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
+CCTV5+,https://tvbox.nat.netsite.cc:8043/proxy/485668034/485668034.m3u8
+CCTV5+,http://d0bf2d.tv.netsite.cc/proxy/485668034/485668034.m3u8
+CCTV6,https://tvbox.nat.netsite.cc:8043/proxy/584456678/584456678.m3u8
+CCTV6,http://d0bf2d.tv.netsite.cc/proxy/584456678/584456678.m3u8
+CCTV7,https://tvbox.nat.netsite.cc:8043/proxy/1163485033/1163485033.m3u8
+CCTV7,http://d0bf2d.tv.netsite.cc/proxy/1163485033/1163485033.m3u8
+CCTV8,https://tvbox.nat.netsite.cc:8043/proxy/366510833/366510833.m3u8
+CCTV8,http://d0bf2d.tv.netsite.cc/proxy/366510833/366510833.m3u8
+CCTV9,https://tvbox.nat.netsite.cc:8043/proxy/675916385/675916385.m3u8
+CCTV9,http://d0bf2d.tv.netsite.cc/proxy/675916385/675916385.m3u8
+CCTV10,https://tvbox.nat.netsite.cc:8043/proxy/2131132936/2131132936.m3u8
+CCTV10,http://d0bf2d.tv.netsite.cc/proxy/2131132936/2131132936.m3u8
+CCTV11,https://tvbox.nat.netsite.cc:8043/proxy/421024024/421024024.m3u8
+CCTV11,http://d0bf2d.tv.netsite.cc/proxy/421024024/421024024.m3u8
+CCTV12,https://tvbox.nat.netsite.cc:8043/proxy/1321786312/1321786312.m3u8
+CCTV12,http://d0bf2d.tv.netsite.cc/proxy/1321786312/1321786312.m3u8
+CCTV13,https://tvbox.nat.netsite.cc:8043/proxy/1942371728/1942371728.m3u8
+CCTV13,http://d0bf2d.tv.netsite.cc/proxy/1942371728/1942371728.m3u8
+CCTV14,https://tvbox.nat.netsite.cc:8043/proxy/512439688/512439688.m3u8
+CCTV14,http://d0bf2d.tv.netsite.cc/proxy/512439688/512439688.m3u8
+CCTV15,https://tvbox.nat.netsite.cc:8043/proxy/323678478/323678478.m3u8
+CCTV15,http://d0bf2d.tv.netsite.cc/proxy/323678478/323678478.m3u8
+CCTV16,https://tvbox.nat.netsite.cc:8043/proxy/2055404079/2055404079.m3u8
+CCTV16,http://d0bf2d.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
+CCTV17,https://tvbox.nat.netsite.cc:8043/proxy/199561397/199561397.m3u8
+CCTV17,http://d0bf2d.tv.netsite.cc/proxy/199561397/199561397.m3u8
 
 
+
+
+CCTV1,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000001/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000017
+CCTV2,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000222
+CCTV3,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000003/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000000
+CCTV4,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000503/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000056
+CCTV5,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000005/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000093
+CCTV5+,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m3u8
+CCTV6,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000006/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000223
+CCTV7,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000504/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000720
+CCTV8,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000008/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000582
+CCTV9,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000505/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000410
+CCTV10,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000156
+CCTV11,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000512
+CCTV12,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000509/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000287
+CCTV13,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000510/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000010
+CCTV14,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8?channel-id=NewTV&livemode=4&Contentid=9900000363
 
 
 CCTV1,http://61.150.67.62:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0

@@ -83,7 +83,16 @@ CCTV15,https://tvbox.nat.netsite.cc:8043/proxy/323678478/323678478.m3u8
 CCTV16,https://tvbox.nat.netsite.cc:8043/proxy/2055404079/2055404079.m3u8
 CCTV17,https://tvbox.nat.netsite.cc:8043/proxy/199561397/199561397.m3u8
 
-fh,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+
+CCTV央视文化精品,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
+CCTV怀旧剧场,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+CCTV央视台球,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
+CCTV女性时尚,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8
+CCTV风云足球,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+CCTV风云音乐,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+CCTV风云剧场,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+CCTV第一剧场,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+CCTV兵器科技,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 
 
 

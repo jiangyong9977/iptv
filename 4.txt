@@ -84,6 +84,8 @@ CCTV16,https://tvbox.nat.netsite.cc:8043/proxy/2055404079/2055404079.m3u8
 CCTV17,https://tvbox.nat.netsite.cc:8043/proxy/199561397/199561397.m3u8
 
 
+fenwang,https://tvbox.nat.netsite.cc:8043/proxy/1846789161/1846789161.m3u8
+
 
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2

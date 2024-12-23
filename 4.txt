@@ -83,8 +83,8 @@ CCTV15,https://tvbox.nat.netsite.cc:8043/proxy/323678478/323678478.m3u8
 CCTV16,https://tvbox.nat.netsite.cc:8043/proxy/2055404079/2055404079.m3u8
 CCTV17,https://tvbox.nat.netsite.cc:8043/proxy/199561397/199561397.m3u8
 
+fh,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 
-fenwang,https://tvbox.nat.netsite.cc:8043/proxy/1846789161/1846789161.m3u8
 
 
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1

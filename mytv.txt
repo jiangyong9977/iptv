@@ -128,9 +128,19 @@ CCTV15,http://61.150.67.62:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&au
 
 
 
-
+CCTV高尔夫球,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
 CCTV高尔夫球,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000094/index.m3u8?
 CCTV高尔夫球,http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_cid=9900000094
+
+CCTV央视文化精品,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
+CCTV怀旧剧场,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+CCTV央视台球,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
+CCTV女性时尚,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8
+CCTV风云足球,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+CCTV风云音乐,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+CCTV风云剧场,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+CCTV第一剧场,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+CCTV兵器科技,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 
 CGTN阿语,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 CGTN俄语,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
@@ -143,6 +153,7 @@ CETV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8
 CETV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8
 CETV4,#http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 CETV4,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
+
 
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 中国天气,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
@@ -553,26 +564,16 @@ CCTV4美洲,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte
 江苏教育,https://025365.xyz:8082/jstv.php?id=jsty
 江苏卫视,https://025365.xyz:8082/jstv.php?id=jsws
 
-江苏城市,http://159.75.85.63:36666/migu/626064714.m3u8?migutoken=d3c94b0196507d8428655f70670af2c6ea45199f9498903c5d6debc0584d9de27542068fa7b88633308355101d6bb912e3d2887728edbe6d4b6474df5eae9dc7afffa0f8aef7ac904ae2e25055
-江苏国际,http://159.75.85.63:36666/migu/626064674.m3u8?migutoken=e5cdbc320181be4ffc1b1250a5756934063a7c12884680b1a3d2c45216d781a128fc9fc308d44aa5dc05a038e28b483dcb6e48403cb6fd3d715c314da05de3bb20ba3cda346d569e4d0765c199
-江苏教育,http://159.75.85.63:36666/migu/628008321.m3u8?migutoken=48117648320d08f36b38555b8e30241ee1809f729b3a1288811d790a1e8ce7c94bbef45d14a861b2d6b4d900f9d3d832944619aeaf3256b4df3c947b08facf86597c36d10009330d28bfb4639c
-江苏影视,http://159.75.85.63:36666/migu/626064697.m3u8?migutoken=ae74e65a68b96dba3290d052c5c03011aa51654de1ef85afd8786fddc87c6ac80aacd37d02ed7d9fae948fe16b32721c7bf2d77af3140fa5087227673c5d8976aadc1cfe65af98ce8e3edaa59e
-江苏综艺,http://159.75.85.63:36666/migu/626065193.m3u8?migutoken=57a6600f561b12ce4315746648b6edc13d1a5ada2fa8d69191a04b023f75cd36e6096c53938b255454c9fcef2e120e171037e42aebf21e96e438af76164e98dd924557c0035d5de0e623d1ff28
 
 
 数字频道,#genre#
+CHC动作电影,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+CHC家庭影院,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+CHC影迷电影,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
+CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
+CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 
-CHC动作电影,http://219.159.194.4:8181/tsfile/live/1019_1.m3u8
-CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
-CHC家庭影院,http://113.57.109.48:1111/tsfile/live/1044_1.m3u8
-CHC家庭影院,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8
-CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
-CHC影迷电影,http://163.177.122.29:9901/tsfile/live/1046_1.m3u8
-CHC影迷电影,http://59.173.243.210:9901/tsfile/live/0119_1.m3u8
-CHC影迷电影,http://183.94.146.109:2222/tsfile/live/1020_1.m3u8
-CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
-CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
-CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
 爱上4K,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
 求索纪录,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
@@ -647,17 +648,15 @@ CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 
 港澳台频道,#genre#
 
-凤凰中文,http://61.150.67.62:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
-凤凰资讯,http://61.150.67.62:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 
 
 
 
-凤凰卫视,http://114.105.185.143:9901/tsfile/live/1063_1.m3u8
-凤凰卫视,http://114.105.185.143:9901/tsfile/live/1054_1.m3u8
-凤凰资讯,http://114.105.185.143:9901/tsfile/live/1071_1.m3u8
-凤凰香港,http://114.105.185.143:9901/tsfile/live/1034_1.m3u8
+
+凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
 
 
@@ -681,6 +680,7 @@ TVB武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 TVBS,http://litv.zapi.us.kg/?id=4gtv-4gtv073
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv072

@@ -257,7 +257,7 @@ hbo家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=183
 黑龙江卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000521
 湖北卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000522
 江西卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000525
-吉林卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000025
+吉林卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000030
 青海卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000042
 山东卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000527
 天津卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000530

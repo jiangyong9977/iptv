@@ -99,8 +99,6 @@ CCTV17,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv17
 CCTV4美洲,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv4a
 CCTV4欧洲,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv4o
 
-http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226220/1.m3u8
-http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226144/index.m3u8?HlsProfileId=
 
 CCTV1,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -182,7 +180,6 @@ CCTV14,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000265013/1.m3
 CCTV15,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 CCTV15,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
 CCTV16,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3
-CCTV16(4K),http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV17,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000006000268004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=3
 CCTV17,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
 CGTN记录,http://[2409:8087:5e08:24::17]:6610/000000001000/7114647837765104058/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
@@ -190,8 +187,6 @@ CGTN阿语,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000006000280001/
 CGTN俄语,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 CGTN法语,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
 CGTN西语,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
-中国教育1,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-中国教育4,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 
 
 CCTV4K,https://tvbox.nat.netsite.cc:8043/proxy/1810627534/1810627534.m3u8
@@ -253,8 +248,6 @@ CCTV17,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000513
 
 
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-中国天气,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
-
 
 CGTN,https://tvbox.nat.netsite.cc:8043/proxy/1162774257/1162774257.m3u8
 CGTN法语,https://tvbox.nat.netsite.cc:8043/proxy/897976963/897976963.m3u8
@@ -666,10 +659,10 @@ CGTN记录,https://tvbox.nat.netsite.cc:8043/proxy/634350026/634350026.m3u8
 
 数字频道,#genre#
 
-CHC家庭影院http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC家庭影院http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC家庭影院http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC家庭影院http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC家庭影院,http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC家庭影院,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC家庭影院,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
 
 CHC动作电影,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
@@ -712,7 +705,6 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 游戏风云,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226187/index.m3u8?HlsProfileId=
 生活时尚,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226358/index.m3u8?HlsProfileId=
 第一财经,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226172/index.m3u8?HlsProfileId=
-纪实人文,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226174/index.m3u8?HlsProfileId=
 欢笑剧场,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226203/index.m3u8?HlsProfileId=
 都市剧场,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226176/index.m3u8?HlsProfileId=
 金鹰卡通,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226703/index.m3u8?HlsProfileId=
@@ -722,21 +714,14 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 金鹰纪实,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 金鹰纪实,https://tvbox.nat.netsite.cc:8043/proxy/46690299/46690299.m3u8
 金鹰卡通,https://tvbox.nat.netsite.cc:8043/proxy/1947104640/1947104640.m3u8
-国际频道,https://tvbox.nat.netsite.cc:8043/proxy/1627651873/1627651873.m3u8
 茶频道,https://tvbox.nat.netsite.cc:8043/proxy/1322311734/1322311734.m3u8
 快乐垂钓,https://tvbox.nat.netsite.cc:8043/proxy/316113716/316113716.m3u8
 先锋乒羽,https://tvbox.nat.netsite.cc:8043/proxy/1789306185/1789306185.m3u8
 
-湖南经视,http://[2409:8087:5e08:24::17]:6610/000000001000/6306119848317438256/1.m3u8?channel-id=hnbblive&Contentid=6306119848317438256&livemode=1&stbId=3
-湖南娱乐,http://[2409:8087:5e08:24::17]:6610/000000001000/6427893650335440392/1.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3
-湖南都市,http://[2409:8087:5e08:24::17]:6610/000000001000/4682579636905393407/1.m3u8?channel-id=hnbblive&Contentid=4682579636905393407&livemode=1&stbId=3
-湖南电视剧,http://[2409:8087:5e08:24::17]:6610/000000001000/8765482907954673867/1.m3u8?channel-id=hnbblive&Contentid=8765482907954673867&livemode=1&stbId=3
-湖南爱晚,http://[2409:8087:5e08:24::17]:6610/000000001000/6307875884530512195/1.m3u8?channel-id=hnbblive&Contentid=6307875884530512195&livemode=1&stbId=3
-湖南电影,http://[2409:8087:5e08:24::17]:6610/000000001000/7884242846753128038/1.m3u8?channel-id=hnbblive&Contentid=7884242846753128038&livemode=1&stbId=3
-湖南国际,http://[2409:8087:5e08:24::17]:6610/000000001000/5015828848322021526/1.m3u8?channel-id=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=3
-金鹰纪实,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
-快乐垂钓,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-茶频道,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
+
+金鹰纪实,http://[2409:8087:5e08:24::16]:6610/000000001000/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
+快乐垂钓,http://[2409:8087:5e08:24::16]:6610/000000001000/5000000011000031206/1.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
+茶频道,http://[2409:8087:5e08:24::16]:6610/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 
 
 
@@ -773,27 +758,7 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 四海钓鱼,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1594642123_-1739463849/wd_r4/peoplecn/shdiaoyu/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=265667494&timezone=UTC&mtv_session=62fe26ea17a6225b620ad6528d069bad&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1dd468b7cedccd815604e427c9d0d8f7
 
 
-纪实科教,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000001000001910/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
-华数4K,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000003000004748/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-纯享4K,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-咪咕4K1,http://[2409:8087:5e08:24::17]:6610/000000001000/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-咪咕4K2,http://[2409:8087:5e08:24::17]:6610/000000001000/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-咪咕4K3,http://[2409:8087:5e08:24::17]:6610/000000001000/3000000001000005308/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
-咪咕4K3,http://[2409:8087:5e08:24::17]:6610/000000001000/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
-求索动物,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000002000010046/1.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-求索纪录,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000002000032052/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-求索科学,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000002000032344/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-求索生活,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000002000003382/1.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-探索纪录,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000007&livemode=1&stbId=3
-探索纪录,http://[2409:8087:5e08:24::17]:6610/000000001000/5359008697329269813/1.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
-精彩影视,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000063/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=3
-精彩影视,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000006000320630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-中华美食,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000052&livemode=1&stbId=3
-漫游世界,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000017&livemode=1&stbId=3
-漫游世界,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000003000028434/1.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
-咪咕全民热练,http://[2409:8087:5e08:24::17]:6610/000000001000/3000000020000031315/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=3
-咪咕全民热练,http://[2409:8087:5e08:24::2]:6610/000000001000/2000000003000000068/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000068&livemode=1&stbId=3
-咪咕全民热练,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000006000270007/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
+
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 睛彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8

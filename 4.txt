@@ -1,6 +1,46 @@
 央视频道,#genre#
 
 
+
+CCTV1,http://hulun.top:35455/gaoma/cctv1.m3u8
+CCTV2,http://hulun.top:35455/gaoma/cctv2.m3u8
+CCTV3,http://hulun.top:35455/gaoma/cctv3.m3u8
+CCTV4,http://hulun.top:35455/gaoma/cctv4.m3u8
+CCTV5,http://hulun.top:35455/gaoma/cctv5.m3u8
+CCTV5+,http://hulun.top:35455/gaoma/cctv5p.m3u8
+CCTV6,http://hulun.top:35455/gaoma/cctv6.m3u8
+CCTV7,http://hulun.top:35455/gaoma/cctv7.m3u8
+CCTV8,http://hulun.top:35455/gaoma/cctv8.m3u8
+CCTV9,http://hulun.top:35455/gaoma/cctv9.m3u8
+CCTV10,http://hulun.top:35455/gaoma/cctv10.m3u8
+CCTV11,http://hulun.top:35455/gaoma/cctv11.m3u8
+CCTV12,http://hulun.top:35455/gaoma/cctv12.m3u8
+CCTV13,http://hulun.top:35455/gaoma/cctv13.m3u8
+CCTV14,http://hulun.top:35455/gaoma/cctv14.m3u8
+CCTV15,http://hulun.top:35455/gaoma/cctv15.m3u8
+CCTV16,http://hulun.top:35455/gaoma/cctv16.m3u8
+CCTV17,http://hulun.top:35455/gaoma/cctv17.m3u8
+
+
+CCTV1,http://isxzg.top:35455/gaoma/cctv1.m3u8
+CCTV2,http://isxzg.top:35455/gaoma/cctv2.m3u8
+CCTV3,http://isxzg.top:35455/gaoma/cctv3.m3u8
+CCTV4,http://isxzg.top:35455/gaoma/cctv4.m3u8
+CCTV5,http://isxzg.top:35455/gaoma/cctv5.m3u8
+CCTV5+,http://isxzg.top:35455/gaoma/cctv5p.m3u8
+CCTV6,http://isxzg.top:35455/gaoma/cctv6.m3u8
+CCTV7,http://isxzg.top:35455/gaoma/cctv7.m3u8
+CCTV8,http://isxzg.top:35455/gaoma/cctv8.m3u8
+CCTV8,http://isxzg.top:35455/gaoma/cctv8k_36m.m3u8
+CCTV9,http://isxzg.top:35455/gaoma/cctv9.m3u8
+CCTV10,http://isxzg.top:35455/gaoma/cctv10.m3u8
+CCTV11,http://isxzg.top:35455/gaoma/cctv11.m3u8
+CCTV12,http://isxzg.top:35455/gaoma/cctv12.m3u8
+CCTV13,http://isxzg.top:35455/gaoma/cctv13.m3u8
+CCTV14,http://isxzg.top:35455/gaoma/cctv14.m3u8
+CCTV15,http://isxzg.top:35455/gaoma/cctv15.m3u8
+CCTV16,http://isxzg.top:35455/gaoma/cctv16.m3u8
+CCTV17,http://isxzg.top:35455/gaoma/cctv17.m3u8
 CCTV1,http://58.221.214.82:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://58.221.214.82:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://58.221.214.82:9901/tsfile/live/0003_1.m3u8
@@ -457,6 +497,16 @@ hbo家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=183
 兵团卫视,https://tvbox.nat.netsite.cc:8043/proxy/1502802665/1502802665.m3u8
 三沙卫视,https://tvbox.nat.netsite.cc:8043/proxy/1337100319/1337100319.m3u8
 
+湖北卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=hubws
+河南卫视,https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjcj
+江苏卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=jsws
+大湾区卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=dwqws
+优漫卡通,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=ymkt
+
+北京新闻,https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjxw
+北京生活,https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjsh
+北京财经,https://fmbox.cc/公众号玉玉软件库/tv/beijing.php?id=bjcj
+劲爆体育,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=jbty
 
 
 

@@ -943,7 +943,7 @@ NewTV频道,#genre#
 超级体育,http://[2409:8087:74d3:21::17]/270000001128/9900000020/index.m3u8?channel-id=newtv&Ace
 超级电影,http://[2409:8087:74d3:21::17]/270000001128/9900000021/index.m3u8?channel-id=newtv&Ace
 超级电视剧,http://[2409:8087:74d3:21::17]/270000001128/9900000022/index.m3u8?channel-id=newtv&Ace
-欢笑剧场,http://[2409:8087:74d3:21::17]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace
+欢乐剧场,http://[2409:8087:74d3:21::17]/270000001128/9900000091/index.m3u8?channel-id=newtv&Ace
 东北热剧,http://[2409:8087:74d3:21::17]/270000001128/9900000092/index.m3u8?channel-id=newtv&Ace
 精品大剧,http://[2409:8087:74d3:21::17]/270000001128/9900000100/index.m3u8?channel-id=newtv&Ace
 精品体育,http://[2409:8087:74d3:21::17]/270000001128/9900000102/index.m3u8?channel-id=newtv&Ace

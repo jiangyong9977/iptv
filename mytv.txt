@@ -244,6 +244,10 @@ CCTV14,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000511
 CCTV15,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000512
 CCTV16,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000016
 CCTV17,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000513
+CETV1,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000046
+CETV2,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000071
+CETV4,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000072
+
 
 CCTV世界地理,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
 CCTV风云剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
@@ -269,7 +273,7 @@ CGTN阿语,https://tvbox.nat.netsite.cc:8043/proxy/1846633731/1846633731.m3u8
 CGTN西语,https://tvbox.nat.netsite.cc:8043/proxy/1194246781/1194246781.m3u8
 CGTN记录,https://tvbox.nat.netsite.cc:8043/proxy/634350026/634350026.m3u8
 
-
+CCTV8K,http://isxzg.top:35455/gaoma/cctv8k_36m.m3u8
 
 
 
@@ -547,6 +551,7 @@ CGTN记录,https://tvbox.nat.netsite.cc:8043/proxy/634350026/634350026.m3u8
 兵团卫视,https://tvbox.nat.netsite.cc:8043/proxy/1502802665/1502802665.m3u8
 三沙卫视,https://tvbox.nat.netsite.cc:8043/proxy/1337100319/1337100319.m3u8
 
+
 东方卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000518
 江苏卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000524
 安徽卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000514
@@ -582,7 +587,10 @@ CGTN记录,https://tvbox.nat.netsite.cc:8043/proxy/634350026/634350026.m3u8
 西藏卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000043
 新疆卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000045
 兵团卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000059
-
+农林卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000060
+康巴卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000066
+山东教育,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000067
+延边卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000073
 
 
 
@@ -649,6 +657,12 @@ CGTN记录,https://tvbox.nat.netsite.cc:8043/proxy/634350026/634350026.m3u8
 江苏国际,https://025365.xyz:8082/jstv.php?id=jsjy
 江苏教育,https://025365.xyz:8082/jstv.php?id=jsty
 江苏卫视,https://025365.xyz:8082/jstv.php?id=jsws
+江苏影视,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSYS/G_JSYS.m3u8
+江苏综艺,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSZY/G_JSZY.m3u8
+江苏教育,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSJY/G_JSJY.m3u8
+江苏新闻,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSGG/G_JSGG.m3u8
+
+
 江苏卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=jsws
 江苏城市,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=jscs
 南京十八,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=njsb
@@ -658,22 +672,22 @@ CGTN记录,https://tvbox.nat.netsite.cc:8043/proxy/634350026/634350026.m3u8
 
 数字频道,#genre#
 
-CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC家庭影院,http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC家庭影院,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC家庭影院,http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC家庭影院,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
 
-CHC动作电影,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC动作电影,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC动作电影,http://[2409:8087:7008:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC动作电影,http://[2409:8087:7008:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC动作电影,http://[2409:8087:7008:20::5]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC动作电影,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC动作电影,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC动作电影,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 
-CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-CHC影迷电影,http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC影迷电影,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CHC影迷电影,http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC影迷电影,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
 CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv

@@ -8,6 +8,9 @@ CCTV3,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226490/in
 CCTV4,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226539/index.m3u8?HlsProfileId=
 CCTV4,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226652/index.m3u8?HlsProfileId=
 CCTV5,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226146/index.m3u8?HlsProfileId=
+
+CCTV5+,http://[2409:8087:74d3:21::17]/270000001128/9900000507/index.m3u8?channel-id=newtv&Ace
+
 CCTV6,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226148/index.m3u8?HlsProfileId=
 CCTV7,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226432/index.m3u8?HlsProfileId=
 CCTV8,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226150/index.m3u8?HlsProfileId=
@@ -44,16 +47,8 @@ CCTV14,http://[2409:8087:74d3:21::17]/270000001128/9900000511/index.m3u8?channel
 CCTV15,http://[2409:8087:74d3:21::17]/270000001128/9900000512/index.m3u8?channel-id=newtv&Ace
 CCTV16,http://[2409:8087:74d3:21::17]/270000001128/9900000016/index.m3u8?channel-id=newtv&Ace
 CCTV17,http://[2409:8087:74d3:21::17]/270000001128/9900000513/index.m3u8?channel-id=newtv&Ace
-CCTV高尔夫网球,http://[2409:8087:74d3:21::17]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
-CETV1,http://[2409:8087:74d3:21::17]/270000001128/9900000046/index.m3u8?channel-id=newtv&Ace
-CETV2,http://[2409:8087:74d3:21::17]/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace
-CETV4,http://[2409:8087:74d3:21::17]/270000001128/9900000072/index.m3u8?channel-id=newtv&Ace
-CGTN,http://[2409:8087:74d3:21::17]/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace
-CGTN纪录,http://[2409:8087:74d3:21::17]/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace
-CGTN俄语,http://[2409:8087:74d3:21::17]/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace
-CGTN阿语,http://[2409:8087:74d3:21::17]/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace
-CGTN法语,http://[2409:8087:74d3:21::17]/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace
-CGTN西语,http://[2409:8087:74d3:21::17]/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace
+
+
 
 CCTV1,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1580954862_989339440/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073730&ContentId=265183188&timezone=UTC&mtv_session=70e0f8e2241f03fbb284fe07471c1406&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a8389d6ec822d0e298d3b92aa95fa266
 CCTV1,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1581250417_885644752/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265183188&timezone=UTC&mtv_session=daa1da1586a901a8da2361a3c74fb673&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ebdf5c15cb6d83de8422d8a58468f02
@@ -174,12 +169,6 @@ CCTV15,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265014/1.m3u
 CCTV16,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3
 CCTV17,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000006000268004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=3
 CCTV17,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
-CGTN阿语,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
-CGTN俄语,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
-CGTN法语,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
-CGTN西语,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
-
-
 
 CCTV1,https://tvbox.nat.netsite.cc:8043/proxy/1387573383/1387573383.m3u8
 CCTV2,https://tvbox.nat.netsite.cc:8043/proxy/1865857764/1865857764.m3u8
@@ -239,18 +228,40 @@ CETV1,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000046
 CETV2,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000071
 CETV4,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000072
 
+CETV1,http://[2409:8087:74d3:21::17]/270000001128/9900000046/index.m3u8?channel-id=newtv&Ace
+CETV2,http://[2409:8087:74d3:21::17]/270000001128/9900000071/index.m3u8?channel-id=newtv&Ace
+CETV4,http://[2409:8087:74d3:21::17]/270000001128/9900000072/index.m3u8?channel-id=newtv&Ace
 
-CCTV世界地理,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
-CCTV风云剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
-CCTV风云音乐,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
-CCTV台球,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
-CCTV第一剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
-CCTV女性时尚,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
-CCTV怀旧剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
-CCTV兵器科技,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
-CCTV高尔夫,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
-CCTV文化精品,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
-CCTV风云足球,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
+
+高尔夫网球,http://[2409:8087:74d3:21::17]/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace
+世界地理,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
+风云剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
+风云音乐,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
+风云足球,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
+台球,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
+第一剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
+女性时尚,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
+怀旧剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
+兵器科技,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
+高尔夫网球,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
+文化精品,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
+
+
+
+
+CGTN阿语,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
+CGTN俄语,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
+CGTN法语,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
+CGTN西语,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
+
+CGTN,http://[2409:8087:74d3:21::17]/270000001128/9900000063/index.m3u8?channel-id=newtv&Ace
+CGTN纪录,http://[2409:8087:74d3:21::17]/270000001128/9900000062/index.m3u8?channel-id=newtv&Ace
+CGTN俄语,http://[2409:8087:74d3:21::17]/270000001128/9900000085/index.m3u8?channel-id=newtv&Ace
+CGTN阿语,http://[2409:8087:74d3:21::17]/270000001128/9900000086/index.m3u8?channel-id=newtv&Ace
+CGTN法语,http://[2409:8087:74d3:21::17]/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace
+CGTN西语,http://[2409:8087:74d3:21::17]/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace
+
+
 
 
 
@@ -264,11 +275,54 @@ CGTN阿语,https://tvbox.nat.netsite.cc:8043/proxy/1846633731/1846633731.m3u8
 CGTN西语,https://tvbox.nat.netsite.cc:8043/proxy/1194246781/1194246781.m3u8
 CGTN记录,https://tvbox.nat.netsite.cc:8043/proxy/634350026/634350026.m3u8
 
-CCTV8K,http://isxzg.top:35455/gaoma/cctv8k_36m.m3u8
+
 
 
 
 卫视频道,#genre#
+
+
+
+东方卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000518/index.m3u8?channel-id=newtv&Ace
+北京卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000516/index.m3u8?channel-id=newtv&Ace
+浙江卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000531/index.m3u8?channel-id=newtv&Ace
+湖南卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000523/index.m3u8?channel-id=newtv&Ace
+江苏卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000524/index.m3u8?channel-id=newtv&Ace
+深圳卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000529/index.m3u8?channel-id=newtv&Ace
+东南卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000519/index.m3u8?channel-id=newtv&Ace
+湖北卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000522/index.m3u8?channel-id=newtv&Ace
+山东卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000527/index.m3u8?channel-id=newtv&Ace
+广东卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000520/index.m3u8?channel-id=newtv&Ace
+四川卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000025/index.m3u8?channel-id=newtv&Ace
+河北卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000057/index.m3u8?channel-id=newtv&Ace
+重庆卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000517/index.m3u8?channel-id=newtv&Ace
+天津卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000530/index.m3u8?channel-id=newtv&Ace
+河南卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000027/index.m3u8?channel-id=newtv&Ace
+吉林卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000030/index.m3u8?channel-id=newtv&Ace
+山西卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000053/index.m3u8?channel-id=newtv&Ace
+安徽卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000514/index.m3u8?channel-id=newtv&Ace
+辽宁卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000526/index.m3u8?channel-id=newtv&Ace
+陕西卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000026/index.m3u8?channel-id=newtv&Ace
+广西卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000034/index.m3u8?channel-id=newtv&Ace
+海南卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000037/index.m3u8?channel-id=newtv&Ace
+宁夏卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000047/index.m3u8?channel-id=newtv&Ace
+江西卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000525/index.m3u8?channel-id=newtv&Ace
+贵州卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000036/index.m3u8?channel-id=newtv&Ace
+甘肃卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000023/index.m3u8?channel-id=newtv&Ace
+云南卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000035/index.m3u8?channel-id=newtv&Ace
+青海卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000042/index.m3u8?channel-id=newtv&Ace
+新疆卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000045/index.m3u8?channel-id=newtv&Ace
+西藏卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000043/index.m3u8?channel-id=newtv&Ace
+兵团卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000059/index.m3u8?channel-id=newtv&Ace
+内蒙古卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000044/index.m3u8?channel-id=newtv&Ace
+黑龙江卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000521/index.m3u8?channel-id=newtv&Ace
+厦门卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000058/index.m3u8?channel-id=newtv&Ace
+农林卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace
+安多卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000064/index.m3u8?channel-id=newtv&Ace
+康巴卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000066/index.m3u8?channel-id=newtv&Ace
+山东教育卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000067/index.m3u8?channel-id=newtv&Ace
+延边卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000073/index.m3u8?channel-id=newtv&Ace
+
 
 浙江卫视,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226144/index.m3u8?HlsProfileId=
 东方卫视,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226155/index.m3u8?HlsProfileId=
@@ -313,46 +367,6 @@ CCTV8K,http://isxzg.top:35455/gaoma/cctv8k_36m.m3u8
 兵团卫视,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226699/index.m3u8?HlsProfileId=
 西藏卫视,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226350/index.m3u8?HlsProfileId=
 安多卫视,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226405/index.m3u8?HlsProfileId=
-
-东方卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000518/index.m3u8?channel-id=newtv&Ace
-北京卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000516/index.m3u8?channel-id=newtv&Ace
-浙江卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000531/index.m3u8?channel-id=newtv&Ace
-湖南卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000523/index.m3u8?channel-id=newtv&Ace
-江苏卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000524/index.m3u8?channel-id=newtv&Ace
-深圳卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000529/index.m3u8?channel-id=newtv&Ace
-东南卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000519/index.m3u8?channel-id=newtv&Ace
-湖北卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000522/index.m3u8?channel-id=newtv&Ace
-山东卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000527/index.m3u8?channel-id=newtv&Ace
-广东卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000520/index.m3u8?channel-id=newtv&Ace
-四川卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000025/index.m3u8?channel-id=newtv&Ace
-河北卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000057/index.m3u8?channel-id=newtv&Ace
-重庆卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000517/index.m3u8?channel-id=newtv&Ace
-天津卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000530/index.m3u8?channel-id=newtv&Ace
-河南卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000027/index.m3u8?channel-id=newtv&Ace
-吉林卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000030/index.m3u8?channel-id=newtv&Ace
-山西卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000053/index.m3u8?channel-id=newtv&Ace
-安徽卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000514/index.m3u8?channel-id=newtv&Ace
-辽宁卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000526/index.m3u8?channel-id=newtv&Ace
-陕西卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000026/index.m3u8?channel-id=newtv&Ace
-广西卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000034/index.m3u8?channel-id=newtv&Ace
-海南卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000037/index.m3u8?channel-id=newtv&Ace
-宁夏卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000047/index.m3u8?channel-id=newtv&Ace
-江西卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000525/index.m3u8?channel-id=newtv&Ace
-贵州卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000036/index.m3u8?channel-id=newtv&Ace
-甘肃卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000023/index.m3u8?channel-id=newtv&Ace
-云南卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000035/index.m3u8?channel-id=newtv&Ace
-青海卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000042/index.m3u8?channel-id=newtv&Ace
-新疆卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000045/index.m3u8?channel-id=newtv&Ace
-西藏卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000043/index.m3u8?channel-id=newtv&Ace
-兵团卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000059/index.m3u8?channel-id=newtv&Ace
-内蒙古卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000044/index.m3u8?channel-id=newtv&Ace
-黑龙江卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000521/index.m3u8?channel-id=newtv&Ace
-厦门卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000058/index.m3u8?channel-id=newtv&Ace
-农林卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000060/index.m3u8?channel-id=newtv&Ace
-安多卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000064/index.m3u8?channel-id=newtv&Ace
-康巴卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000066/index.m3u8?channel-id=newtv&Ace
-山东教育卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000067/index.m3u8?channel-id=newtv&Ace
-延边卫视,http://[2409:8087:74d3:21::17]/270000001128/9900000073/index.m3u8?channel-id=newtv&Ace
 
 
 
@@ -671,7 +685,9 @@ CHC影迷电影,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/888
 CHC影迷电影,http://[2409:8087:7008:20::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC影迷电影,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-
+CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
+CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
+CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
 CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
 CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv

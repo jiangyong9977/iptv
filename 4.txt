@@ -362,24 +362,24 @@ NewTV东北热剧,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000092
 NewTV动作电影,                         
 NewTV古装剧场,                         
 NewTV欢乐剧场,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000091                            
-NewTV家庭剧场,                         
+NewTV家庭剧场,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000108                         
 NewTV金牌综艺,                          
 NewTV惊悚悬疑,                         
 NewTV军旅剧场,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000107                         
-NewTV军事评论,  
+NewTV军事评论, http://php.jdshipin.com/TVOD/gsyd.php?id=9900000110 
 NewTV明星大片,                          
 NewTV农业致富,                         
 NewTV武博世界,                         
-NewTV炫舞未来,                         
+NewTV炫舞未来,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000098                         
 NewTV怡伴健康,                         
 NewTV中国功夫,                          
 NewTV黑莓电影, http://php.jdshipin.com/TVOD/gsyd.php?id=9900000095                        
 NewTV黑莓动画,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000096                          
 NewTV哒啵电竞,                         
 NewTV哒啵赛事,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000097                         
-1,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000098
-2,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000108
-3,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000110
+
+
+
 4,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000076
 5,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000077
 6,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000078

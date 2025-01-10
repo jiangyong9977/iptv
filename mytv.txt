@@ -42,6 +42,28 @@ CCTV16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/1.m3
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000056836/1.m3u8
 
+
+CCTV1,http://tv.kmhlzxs.top:35455/gaoma/cctv1.m3u8
+CCTV2,http://tv.kmhlzxs.top:35455/gaoma/cctv2.m3u8
+CCTV3,http://tv.kmhlzxs.top:35455/gaoma/cctv3.m3u8
+CCTV4,http://tv.kmhlzxs.top:35455/gaoma/cctv4.m3u8
+CCTV5,http://tv.kmhlzxs.top:35455/gaoma/cctv5.m3u8
+CCTV5+,http://tv.kmhlzxs.top:35455/gaoma/cctv5p.m3u8
+CCTV6,http://tv.kmhlzxs.top:35455/gaoma/cctv6.m3u8
+CCTV7,http://tv.kmhlzxs.top:35455/gaoma/cctv7.m3u8
+CCTV8,http://tv.kmhlzxs.top:35455/gaoma/cctv8.m3u8
+CCTV9,http://tv.kmhlzxs.top:35455/gaoma/cctv9.m3u8
+CCTV10,http://tv.kmhlzxs.top:35455/gaoma/cctv10.m3u8
+CCTV11,http://tv.kmhlzxs.top:35455/gaoma/cctv11.m3u8
+CCTV12,http://tv.kmhlzxs.top:35455/gaoma/cctv12.m3u8
+CCTV13,http://tv.kmhlzxs.top:35455/gaoma/cctv13.m3u8
+CCTV14,http://tv.kmhlzxs.top:35455/gaoma/cctv14.m3u8
+CCTV15,http://tv.kmhlzxs.top:35455/gaoma/cctv15.m3u8
+CCTV16,http://tv.kmhlzxs.top:35455/gaoma/cctv16.m3u8
+CCTV17,http://tv.kmhlzxs.top:35455/gaoma/cctv17.m3u8
+CCTV4k,http://tv.kmhlzxs.top:35455/gaoma/cctv4k.m3u8
+
+
 CCTV1,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010144/1.m3u8
 CCTV2,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/1.m3u8
 CCTV3,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010212/1.m3u8
@@ -93,24 +115,24 @@ CCTV17,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/
 
 
 
-CCTV1,https://tvbox.nat.netsite.cc:8043/proxy/1387573383/1387573383.m3u8
-CCTV2,https://tvbox.nat.netsite.cc:8043/proxy/1865857764/1865857764.m3u8
-CCTV3,https://tvbox.nat.netsite.cc:8043/proxy/781829366/781829366.m3u8
-CCTV4,https://tvbox.nat.netsite.cc:8043/proxy/1431251767/1431251767.m3u8
-CCTV5,https://tvbox.nat.netsite.cc:8043/proxy/2118762958/2118762958.m3u8
-CCTV5+,https://tvbox.nat.netsite.cc:8043/proxy/485668034/485668034.m3u8
-CCTV6,https://tvbox.nat.netsite.cc:8043/proxy/584456678/584456678.m3u8
-CCTV7,https://tvbox.nat.netsite.cc:8043/proxy/1163485033/1163485033.m3u8
-CCTV8,https://tvbox.nat.netsite.cc:8043/proxy/366510833/366510833.m3u8
-CCTV9,https://tvbox.nat.netsite.cc:8043/proxy/675916385/675916385.m3u8
-CCTV10,https://tvbox.nat.netsite.cc:8043/proxy/2131132936/2131132936.m3u8
-CCTV11,https://tvbox.nat.netsite.cc:8043/proxy/421024024/421024024.m3u8
-CCTV12,https://tvbox.nat.netsite.cc:8043/proxy/1321786312/1321786312.m3u8
-CCTV13,https://tvbox.nat.netsite.cc:8043/proxy/1942371728/1942371728.m3u8
-CCTV14,https://tvbox.nat.netsite.cc:8043/proxy/512439688/512439688.m3u8
-CCTV15,https://tvbox.nat.netsite.cc:8043/proxy/323678478/323678478.m3u8
-CCTV16,https://tvbox.nat.netsite.cc:8043/proxy/2055404079/2055404079.m3u8
-CCTV17,https://tvbox.nat.netsite.cc:8043/proxy/199561397/199561397.m3u8
+CCTV1,https://a21709.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
+CCTV2,https://a21709.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
+CCTV3,https://a21709.tv.netsite.cc/proxy/781829366/781829366.m3u8
+CCTV4,https://a21709.tv.netsite.cc/proxy/1431251767/1431251767.m3u8
+CCTV5,https://a21709.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
+CCTV5+,https://a21709.tv.netsite.cc/proxy/485668034/485668034.m3u8
+CCTV6,https://a21709.tv.netsite.cc/proxy/584456678/584456678.m3u8
+CCTV7,https://a21709.tv.netsite.cc/proxy/1163485033/1163485033.m3u8
+CCTV8,https://a21709.tv.netsite.cc/proxy/366510833/366510833.m3u8
+CCTV9,https://a21709.tv.netsite.cc/proxy/675916385/675916385.m3u8
+CCTV10,https://a21709.tv.netsite.cc/proxy/2131132936/2131132936.m3u8
+CCTV11,https://a21709.tv.netsite.cc/proxy/421024024/421024024.m3u8
+CCTV12,https://a21709.tv.netsite.cc/proxy/1321786312/1321786312.m3u8
+CCTV13,https://a21709.tv.netsite.cc/proxy/1942371728/1942371728.m3u8
+CCTV14,https://a21709.tv.netsite.cc/proxy/512439688/512439688.m3u8
+CCTV15,https://a21709.tv.netsite.cc/proxy/323678478/323678478.m3u8
+CCTV16,https://a21709.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
+CCTV17,https://a21709.tv.netsite.cc/proxy/199561397/199561397.m3u8
 
 CCTV1,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv1
 CCTV2,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv2
@@ -219,7 +241,7 @@ CGTN阿语,http://[2409:8087:74d3:21::17]/270000001128/9900000086/index.m3u8?cha
 CGTN法语,http://[2409:8087:74d3:21::17]/270000001128/9900000087/index.m3u8?channel-id=newtv&Ace
 CGTN西语,http://[2409:8087:74d3:21::17]/270000001128/9900000088/index.m3u8?channel-id=newtv&Ace
 
-CCTV4k,https://tvbox.nat.netsite.cc:8043/proxy/1810627534/1810627534.m3u8
+CCTV4k,https://a21709.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
 
 
 
@@ -345,40 +367,40 @@ CCTV4k,https://tvbox.nat.netsite.cc:8043/proxy/1810627534/1810627534.m3u8
 三沙卫视,http://[2409:8087:5e00:24::11]:6060/000000001000/4600001000000000117/1.m3u8
 大湾区卫视,http://[2409:8087:5e00:24::11]:6060/000000001000/1000000002000011619/1.m3u8
 
-北京卫视,https://tvbox.nat.netsite.cc:8043/proxy/1773564112/1773564112.m3u8
-江苏卫视,https://tvbox.nat.netsite.cc:8043/proxy/256947203/256947203.m3u8
-东方卫视,https://tvbox.nat.netsite.cc:8043/proxy/694881013/694881013.m3u8
-浙江卫视,https://tvbox.nat.netsite.cc:8043/proxy/257951448/257951448.m3u8
-湖南卫视,https://tvbox.nat.netsite.cc:8043/proxy/480409838/480409838.m3u8
-湖北卫视,https://tvbox.nat.netsite.cc:8043/proxy/209398845/209398845.m3u8
-广东卫视,https://tvbox.nat.netsite.cc:8043/proxy/573869971/573869971.m3u8
-广西卫视,https://tvbox.nat.netsite.cc:8043/proxy/102904669/102904669.m3u8
-黑龙江卫视,https://tvbox.nat.netsite.cc:8043/proxy/982668357/982668357.m3u8
-海南卫视,https://tvbox.nat.netsite.cc:8043/proxy/200969914/200969914.m3u8
-重庆卫视,https://tvbox.nat.netsite.cc:8043/proxy/562106987/562106987.m3u8
-深圳卫视,https://tvbox.nat.netsite.cc:8043/proxy/457534194/457534194.m3u8
-四川卫视,https://tvbox.nat.netsite.cc:8043/proxy/59757691/59757691.m3u8
-河南卫视,https://tvbox.nat.netsite.cc:8043/proxy/251465659/251465659.m3u8
-东南卫视,https://tvbox.nat.netsite.cc:8043/proxy/698479958/698479958.m3u8
-贵州卫视,https://tvbox.nat.netsite.cc:8043/proxy/189740973/189740973.m3u8
-江西卫视,https://tvbox.nat.netsite.cc:8043/proxy/203181175/203181175.m3u8
-辽宁卫视,https://tvbox.nat.netsite.cc:8043/proxy/463441117/463441117.m3u8
-安徽卫视,https://tvbox.nat.netsite.cc:8043/proxy/149472807/149472807.m3u8
-河北卫视,https://tvbox.nat.netsite.cc:8043/proxy/1385861493/1385861493.m3u8
-山东卫视,https://tvbox.nat.netsite.cc:8043/proxy/95712545/95712545.m3u8
-天津卫视,https://tvbox.nat.netsite.cc:8043/proxy/240376980/240376980.m3u8
-吉林卫视,https://tvbox.nat.netsite.cc:8043/proxy/649197264/649197264.m3u8
-陕西卫视,https://tvbox.nat.netsite.cc:8043/proxy/1158533991/1158533991.m3u8
-甘肃卫视,https://tvbox.nat.netsite.cc:8043/proxy/910220240/910220240.m3u8
-宁夏卫视,https://tvbox.nat.netsite.cc:8043/proxy/842139022/842139022.m3u8
-内蒙古卫视,https://tvbox.nat.netsite.cc:8043/proxy/1838037272/1838037272.m3u8
-云南卫视,https://tvbox.nat.netsite.cc:8043/proxy/599737477/599737477.m3u8
-山西卫视,https://tvbox.nat.netsite.cc:8043/proxy/723496018/723496018.m3u8
-青海卫视,https://tvbox.nat.netsite.cc:8043/proxy/1164716104/1164716104.m3u8
-西藏卫视,https://tvbox.nat.netsite.cc:8043/proxy/1062504144/1062504144.m3u8
-新疆卫视,https://tvbox.nat.netsite.cc:8043/proxy/86832656/86832656.m3u8
-兵团卫视,https://tvbox.nat.netsite.cc:8043/proxy/1502802665/1502802665.m3u8
-三沙卫视,https://tvbox.nat.netsite.cc:8043/proxy/1337100319/1337100319.m3u8
+北京卫视,https://a21709.tv.netsite.cc/proxy/1773564112/1773564112.m3u8
+江苏卫视,https://a21709.tv.netsite.cc/proxy/256947203/256947203.m3u8
+东方卫视,https://a21709.tv.netsite.cc/proxy/694881013/694881013.m3u8
+浙江卫视,https://a21709.tv.netsite.cc/proxy/257951448/257951448.m3u8
+湖南卫视,https://a21709.tv.netsite.cc/proxy/480409838/480409838.m3u8
+湖北卫视,https://a21709.tv.netsite.cc/proxy/209398845/209398845.m3u8
+广东卫视,https://a21709.tv.netsite.cc/proxy/573869971/573869971.m3u8
+广西卫视,https://a21709.tv.netsite.cc/proxy/102904669/102904669.m3u8
+黑龙江卫视,https://a21709.tv.netsite.cc/proxy/982668357/982668357.m3u8
+海南卫视,https://a21709.tv.netsite.cc/proxy/200969914/200969914.m3u8
+重庆卫视,https://a21709.tv.netsite.cc/proxy/562106987/562106987.m3u8
+深圳卫视,https://a21709.tv.netsite.cc/proxy/457534194/457534194.m3u8
+四川卫视,https://a21709.tv.netsite.cc/proxy/59757691/59757691.m3u8
+河南卫视,https://a21709.tv.netsite.cc/proxy/251465659/251465659.m3u8
+东南卫视,https://a21709.tv.netsite.cc/proxy/698479958/698479958.m3u8
+贵州卫视,https://a21709.tv.netsite.cc/proxy/189740973/189740973.m3u8
+江西卫视,https://a21709.tv.netsite.cc/proxy/203181175/203181175.m3u8
+辽宁卫视,https://a21709.tv.netsite.cc/proxy/463441117/463441117.m3u8
+安徽卫视,https://a21709.tv.netsite.cc/proxy/149472807/149472807.m3u8
+河北卫视,https://a21709.tv.netsite.cc/proxy/1385861493/1385861493.m3u8
+山东卫视,https://a21709.tv.netsite.cc/proxy/95712545/95712545.m3u8
+天津卫视,https://a21709.tv.netsite.cc/proxy/240376980/240376980.m3u8
+吉林卫视,https://a21709.tv.netsite.cc/proxy/649197264/649197264.m3u8
+陕西卫视,https://a21709.tv.netsite.cc/proxy/1158533991/1158533991.m3u8
+甘肃卫视,https://a21709.tv.netsite.cc/proxy/910220240/910220240.m3u8
+宁夏卫视,https://a21709.tv.netsite.cc/proxy/842139022/842139022.m3u8
+内蒙古卫视,https://a21709.tv.netsite.cc/proxy/1838037272/1838037272.m3u8
+云南卫视,https://a21709.tv.netsite.cc/proxy/599737477/599737477.m3u8
+山西卫视,https://a21709.tv.netsite.cc/proxy/723496018/723496018.m3u8
+青海卫视,https://a21709.tv.netsite.cc/proxy/1164716104/1164716104.m3u8
+西藏卫视,https://a21709.tv.netsite.cc/proxy/1062504144/1062504144.m3u8
+新疆卫视,https://a21709.tv.netsite.cc/proxy/86832656/86832656.m3u8
+兵团卫视,https://a21709.tv.netsite.cc/proxy/1502802665/1502802665.m3u8
+三沙卫视,https://a21709.tv.netsite.cc/proxy/1337100319/1337100319.m3u8
 
 
 
@@ -478,12 +500,12 @@ CCTV4k,https://tvbox.nat.netsite.cc:8043/proxy/1810627534/1810627534.m3u8
 上海新闻,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226620/index.m3u8?HlsProfileId=
 东方财经,http://[2409:8087:74d8:21::0a]/000000001000PLTV/88888888/224/3221226602/index.m3u8?HlsProfileId=
 
-第一财经,https://tvbox.nat.netsite.cc:8043/proxy/1946402424/1946402424.m3u8
-纪实人文,https://tvbox.nat.netsite.cc:8043/proxy/1975883896/1975883896.m3u8
+第一财经,https://a21709.tv.netsite.cc/proxy/1946402424/1946402424.m3u8
+纪实人文,https://a21709.tv.netsite.cc/proxy/1975883896/1975883896.m3u8
 
-上海都市,https://tvbox.nat.netsite.cc:8043/proxy/2116818558/2116818558.m3u8
+上海都市,https://a21709.tv.netsite.cc/proxy/2116818558/2116818558.m3u8
 
-点掌财经,https://tvbox.nat.netsite.cc:8043/proxy/1577752441/1577752441.m3u8
+点掌财经,https://a21709.tv.netsite.cc/proxy/1577752441/1577752441.m3u8
 
 上海都市,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018926/1.m3u8
 东方财经,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000007000010003/1.m3u8
@@ -499,15 +521,15 @@ CCTV4k,https://tvbox.nat.netsite.cc:8043/proxy/1810627534/1810627534.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 
-浙江卫视,https://tvbox.nat.netsite.cc:8043/proxy/2059640241/2059640241.m3u8
-钱江都市,https://tvbox.nat.netsite.cc:8043/proxy/2044904392/2044904392.m3u8
-浙江经济生活,https://tvbox.nat.netsite.cc:8043/proxy/1529435983/1529435983.m3u8
-浙江民生休闲,https://tvbox.nat.netsite.cc:8043/proxy/991769224/991769224.m3u8
-浙江新闻,https://tvbox.nat.netsite.cc:8043/proxy/2053951003/2053951003.m3u8
-浙江教科影视,https://tvbox.nat.netsite.cc:8043/proxy/833196700/833196700.m3u8
-浙江少儿,https://tvbox.nat.netsite.cc:8043/proxy/1658458613/1658458613.m3u8
-浙江国际,https://tvbox.nat.netsite.cc:8043/proxy/2031903078/2031903078.m3u8
-之江纪录,https://tvbox.nat.netsite.cc:8043/proxy/1044187699/1044187699.m3u8
+浙江卫视,https://a21709.tv.netsite.cc/proxy/2059640241/2059640241.m3u8
+钱江都市,https://a21709.tv.netsite.cc/proxy/2044904392/2044904392.m3u8
+浙江经济生活,https://a21709.tv.netsite.cc/proxy/1529435983/1529435983.m3u8
+浙江民生休闲,https://a21709.tv.netsite.cc/proxy/991769224/991769224.m3u8
+浙江新闻,https://a21709.tv.netsite.cc/proxy/2053951003/2053951003.m3u8
+浙江教科影视,https://a21709.tv.netsite.cc/proxy/833196700/833196700.m3u8
+浙江少儿,https://a21709.tv.netsite.cc/proxy/1658458613/1658458613.m3u8
+浙江国际,https://a21709.tv.netsite.cc/proxy/2031903078/2031903078.m3u8
+之江纪录,https://a21709.tv.netsite.cc/proxy/1044187699/1044187699.m3u8
 
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
@@ -564,7 +586,7 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 漫威电影,http://jiaojirentv.top/2020/dy.php?id=6140589
-1905电影网,https://tvbox.nat.netsite.cc:8043/proxy/1747360543/1747360543.m3u8
+1905电影网,https://a21709.tv.netsite.cc/proxy/1747360543/1747360543.m3u8
 1905电影网,http://php.jdshipin.com/1905.php?id=1905dy
 淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 

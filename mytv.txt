@@ -1,8 +1,6 @@
-央视频道,#genre#
 
 
-
-
+http://b.zgjok.com:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
 CCTV1,http://b.zgjok.com:35455/itv/6000000001000029752.m3u8?cdn=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
 CCTV1,http://b.zgjok.com:35455/itv/5000000004000002226.m3u8?cdn=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 CCTV1,http://b.zgjok.com:35455/itv/1000000005000265001.m3u8?cdn=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
@@ -344,6 +342,9 @@ CGTN西语,http://tv.kmhlzxs.top:35455/itv/1000000006000280002.m3u8?cdn=ystenliv
 吉林卫视,http://b.zgjok.com:35455/itv/1000000002000027730.m3u8?cdn=ystenlive&Contentid=1000000002000027730
 内蒙古卫视,http://b.zgjok.com:35455/itv/1000000002000014080.m3u8?cdn=ystenlive&Contentid=1000000002000014080
 宁夏卫视,http://b.zgjok.com:35455/itv/1000000002000031451.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000002000031451
+甘肃卫视,http://b.zgjok.com:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+山西卫视,http://b.zgjok.com:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
+陕西卫视,http://b.zgjok.com:35455/itv/5000000006000040017.m3u8?cdn=bestzb
 新疆卫视,http://b.zgjok.com:35455/itv/1000000002000029441.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000002000029441
 新疆卫视,http://b.zgjok.com:35455/itv/1000000002000029441.m3u8?cdn=ystenlive&Contentid=1000000002000029441
 西藏卫视,http://b.zgjok.com:35455/itv/1000000002000015894.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000002000015894
@@ -352,6 +353,7 @@ CGTN西语,http://tv.kmhlzxs.top:35455/itv/1000000006000280002.m3u8?cdn=ystenliv
 康巴卫视,http://b.zgjok.com:35455/itv/1000000005000266002.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000005000266002
 农林卫视,http://b.zgjok.com:35455/itv/1000000005000266003.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000005000266003
 延边卫视,http://b.zgjok.com:35455/itv/1000000005000266008.m3u8?cdn=ystenlive&Contentid=1000000005000266008
+三沙卫视,http://b.zgjok.com:35455/itv/5000000011000288016.m3u8?cdn=bestzb
 
 
 
@@ -402,6 +404,9 @@ CGTN西语,http://tv.kmhlzxs.top:35455/itv/1000000006000280002.m3u8?cdn=ystenliv
 吉林卫视,http://tv.kmhlzxs.top:35455/itv/1000000002000027730.m3u8?cdn=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3
 内蒙古卫视,http://tv.kmhlzxs.top:35455/itv/1000000002000014080.m3u8?cdn=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=3
 宁夏卫视,http://tv.kmhlzxs.top:35455/itv/1000000002000031451.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000002000031451
+甘肃卫视,http://tv.kmhlzxs.top:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+山西卫视,http://tv.kmhlzxs.top:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
+陕西卫视,http://tv.kmhlzxs.top:35455/itv/5000000006000040017.m3u8?cdn=bestzb
 新疆卫视,http://tv.kmhlzxs.top:35455/itv/1000000002000029441.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000002000029441
 新疆卫视,http://tv.kmhlzxs.top:35455/itv/1000000002000029441.m3u8?cdn=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3
 西藏卫视,http://tv.kmhlzxs.top:35455/itv/1000000002000015894.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000002000015894
@@ -757,7 +762,6 @@ TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 
 中天新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv009
 TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv073
-
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS新闻台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv072
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8

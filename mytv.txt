@@ -45,6 +45,25 @@ CCTV16,http://b.zgjok.com:35455/itv/5000000008000023254.m3u8?cdn=bestzb&Contenti
 CCTV17,http://b.zgjok.com:35455/itv/1000000006000268004.m3u8?cdn=ystenlive&Contentid=1000000006000268004
 CCTV17,http://b.zgjok.com:35455/itv/1000000005000265015.m3u8?cdn=ystenlive&Contentid=1000000005000265015
 
+CCTV1,http://b.zgjok.com:35455/gaoma/cctv1.m3u8
+CCTV2,http://b.zgjok.com:35455/gaoma/cctv2.m3u8
+CCTV3,http://b.zgjok.com:35455/gaoma/cctv3.m3u8
+CCTV4,http://b.zgjok.com:35455/gaoma/cctv4.m3u8
+CCTV5,http://b.zgjok.com:35455/gaoma/cctv5.m3u8
+CCTV5+,http://b.zgjok.com:35455/gaoma/cctv5p.m3u8
+CCTV6,http://b.zgjok.com:35455/gaoma/cctv6.m3u8
+CCTV7,http://b.zgjok.com:35455/gaoma/cctv7.m3u8
+CCTV8,http://b.zgjok.com:35455/gaoma/cctv8.m3u8
+CCTV9,http://b.zgjok.com:35455/gaoma/cctv9.m3u8
+CCTV10,http://b.zgjok.com:35455/gaoma/cctv10.m3u8
+CCTV11,http://b.zgjok.com:35455/gaoma/cctv11.m3u8
+CCTV12,http://b.zgjok.com:35455/gaoma/cctv12.m3u8
+CCTV13,http://b.zgjok.com:35455/gaoma/cctv13.m3u8
+CCTV14,http://b.zgjok.com:35455/gaoma/cctv14.m3u8
+CCTV15,http://b.zgjok.com:35455/gaoma/cctv15.m3u8
+CCTV16,http://b.zgjok.com:35455/gaoma/cctv16.m3u8
+CCTV17,http://b.zgjok.com:35455/gaoma/cctv17.m3u8
+CCTV4k,http://b.zgjok.com:35455/gaoma/cctv4k.m3u8
 
 
 
@@ -602,7 +621,8 @@ CGTN西语,http://tv.kmhlzxs.top:35455/itv/1000000006000280002.m3u8?cdn=ystenliv
 
 数字频道,#genre#
 
-
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
+CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
@@ -726,34 +746,43 @@ Chanle V,http://quan2018.mycloudnas.com:51888/play/a011/index.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
+TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 华丽翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
+
 莲花卫视,http://php.jdshipin.com:8880/amlh.php
 
 
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
-星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
+TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+
+
+中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 中天新闻,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv009
+TVBS欢乐台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
+TVBS,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv073
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS新闻台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv072
-TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
+
 TVBS新闻台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv072
 TVBS欢乐台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv068
 TVBS精采,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv067
-美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 AMC电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv017
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+
 CAT电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076
 数位电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv011
 靖天电影,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv061

@@ -623,6 +623,11 @@ CGTN西语,http://tv.kmhlzxs.top:35455/itv/1000000006000280002.m3u8?cdn=ystenliv
 
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9
+
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
@@ -724,10 +729,9 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-凤凰资讯,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-凤凰中文,http://[2409:8087:7008:20::a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
@@ -746,10 +750,13 @@ Chanle V,http://quan2018.mycloudnas.com:51888/play/a011/index.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
+翡翠台,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
+TVBJ2,http://cdn3.132.us.kg/live/tvbp/stream.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
+澳亚卫视,http://cdn.132.us.kg/live/as/stream.m3u8
+星光影视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 华丽翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
@@ -840,7 +847,7 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+Now星影台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8

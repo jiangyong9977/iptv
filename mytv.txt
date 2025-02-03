@@ -37,6 +37,7 @@ CCTV12,http://2000.run:35455/itv/6000000001000022586.m3u8?cdn=wasusyt&Contentid=
 CCTV12,http://2000.run:35455/itv/1000000005000265012.m3u8?cdn=ystenlive&Contentid=1000000005000265012
 CCTV13,http://2000.run:35455/itv/5000000011000031108.m3u8?cdn=bestzb&Contentid=5000000011000031108
 CCTV13,http://2000.run:35455/itv/1000000002000021303.m3u8?cdn=ystenlive
+CCTV13,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 CCTV14,http://2000.run:35455/itv/1000000001000008170.m3u8?cdn=ystenlive&Contentid=1000000001000008170
 CCTV14,http://2000.run:35455/itv/5000000004000006673.m3u8?cdn=bestzb&Contentid=5000000004000006673
 CCTV14,http://2000.run:35455/itv/1000000005000265013.m3u8?cdn=ystenlive&Contentid=1000000005000265013
@@ -436,7 +437,17 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 华数4K,http://2000.run:35455/itv/6000000003000004748.m3u8?cdn=wasusyt&Contentid=6000000003000004748
 纯享4K,http://2000.run:35455/itv/1000000004000011651.m3u8?cdn=ystenlive&Contentid=1000000004000011651
 咪咕4K1,http://2000.run:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive&Contentid=3000000010000005180
-
+咪咕4K2,http://2000.run:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive&Contentid=3000000010000015686
+咪咕4K3,http://2000.run:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive&Contentid=3000000001000005308
+咪咕4K4,http://2000.run:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive&Contentid=3000000001000005969
+咪咕4K1,http://ct.370829.xyz:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive&Contentid=3000000010000005180
+咪咕4K2,http://ct.370829.xyz:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive&Contentid=3000000010000015686
+咪咕4K3,http://ct.370829.xyz:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive&Contentid=3000000001000005308
+咪咕4K4,http://ct.370829.xyz:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive&Contentid=3000000001000005969
+咪咕4K1,http://lt.hxtre.com:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive&Contentid=3000000010000005180
+咪咕4K2,http://lt.hxtre.com:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive&Contentid=3000000010000015686
+咪咕4K3,http://lt.hxtre.com:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive&Contentid=3000000001000005308
+咪咕4K4,http://lt.hxtre.com:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive&Contentid=3000000001000005969
 
 华数4K,http://lt.hxtre.com:35455/itv/6000000003000004748.m3u8?cdn=wasusyt&Contentid=6000000003000004748
 纯享4K,http://lt.hxtre.com:35455/itv/1000000004000011651.m3u8?cdn=ystenlive&Contentid=1000000004000011651
@@ -570,11 +581,12 @@ TVB武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻台,
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 
-中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+中天新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 中天新闻,http://litv.zapi.us.kg/?4gtv-4gtv009
 TVBS欢乐台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 TVBS,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223

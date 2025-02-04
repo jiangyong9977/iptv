@@ -49,49 +49,49 @@ CCTV17,http://2000.run:35455/itv/1000000006000268004.m3u8?cdn=ystenlive&Contenti
 CCTV17,http://2000.run:35455/itv/1000000005000265015.m3u8?cdn=ystenlive&Contentid=1000000005000265015
 
 
-CCTV1,http://lt.hxtre.com:35455/itv/6000000001000029752.m3u8?cdn=wasusyt&Contentid=6000000001000029752
-CCTV1,http://lt.hxtre.com:35455/itv/5000000004000002226.m3u8?cdn=bestzb&Contentid=5000000004000002226
-CCTV1,http://lt.hxtre.com:35455/itv/1000000005000265001.m3u8?cdn=ystenlive&Contentid=1000000005000265001
-CCTV2,http://lt.hxtre.com:35455/itv/1000000001000023315.m3u8?cdn=ystenlive&Contentid=1000000001000023315
-CCTV2,http://lt.hxtre.com:35455/itv/6000000001000014161.m3u8?cdn=wasusyt&Contentid=6000000001000014161
-CCTV3,http://lt.hxtre.com:35455/itv/6000000001000022313.m3u8?cdn=wasusyt&Contentid=6000000001000022313
-CCTV3,http://lt.hxtre.com:35455/itv/1000000005000265003.m3u8?cdn=ystenlive&Contentid=1000000005000265003
-CCTV4,http://lt.hxtre.com:35455/itv/5000000011000031102.m3u8?cdn=bestzb&Contentid=5000000011000031102
-CCTV4,http://lt.hxtre.com:35455/itv/1000000005000265004.m3u8?cdn=ystenlive&Contentid=1000000005000265004
-CCTV5,http://lt.hxtre.com:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
-CCTV5,http://lt.hxtre.com:35455/itv/1000000005000265005.m3u8?cdn=ystenlive&Contentid=1000000005000265005
-CCTV5+,http://lt.hxtre.com:35455/itv/6000000001000015875.m3u8?cdn=wasusyt&Contentid=6000000001000015875
-CCTV5+,http://lt.hxtre.com:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
-CCTV6,http://lt.hxtre.com:35455/itv/1000000001000001737.m3u8?cdn=ystenlive&Contentid=1000000001000001737
-CCTV6,http://lt.hxtre.com:35455/itv/6000000001000004574.m3u8?cdn=wasusyt&Contentid=6000000001000004574
-CCTV6,http://lt.hxtre.com:35455/itv/1000000005000265006.m3u8?cdn=ystenlive&Contentid=1000000005000265006
-CCTV7,http://lt.hxtre.com:35455/itv/1000000001000024341.m3u8?cdn=ystenlive&Contentid=1000000001000024341
-CCTV7,http://lt.hxtre.com:35455/itv/6000000001000009055.m3u8?cdn=wasusyt&Contentid=6000000001000009055
-CCTV7,http://lt.hxtre.com:35455/itv/1000000005000265007.m3u8?cdn=ystenlive&Contentid=1000000005000265007
-CCTV8,http://lt.hxtre.com:35455/itv/6000000001000001070.m3u8?cdn=wasusyt&Contentid=6000000001000001070
-CCTV8,http://lt.hxtre.com:35455/itv/1000000005000265008.m3u8?cdn=ystenlive&Contentid=1000000005000265008
-CCTV9,http://lt.hxtre.com:35455/itv/1000000001000014583.m3u8?cdn=ystenlive&Contentid=1000000001000014583
-CCTV9,http://lt.hxtre.com:35455/itv/6000000001000032162.m3u8?cdn=wasusyt&Contentid=6000000001000032162
-CCTV9,http://lt.hxtre.com:35455/itv/1000000005000265009.m3u8?cdn=ystenlive&Contentid=1000000005000265009
-CCTV10,http://lt.hxtre.com:35455/itv/1000000001000023734.m3u8?cdn=ystenlive&Contentid=1000000001000023734
-CCTV10,http://lt.hxtre.com:35455/itv/5000000004000012827.m3u8?cdn=bestzb&Contentid=5000000004000012827
-CCTV10,http://lt.hxtre.com:35455/itv/1000000005000265010.m3u8?cdn=ystenlive&Contentid=1000000005000265010
-CCTV11,http://lt.hxtre.com:35455/itv/5000000011000031106.m3u8?cdn=bestzb&Contentid=5000000011000031106
-CCTV11,http://lt.hxtre.com:35455/itv/1000000005000265011.m3u8?cdn=ystenlive&Contentid=1000000005000265011
-CCTV12,http://lt.hxtre.com:35455/itv/1000000001000032494.m3u8?cdn=ystenlive&Contentid=1000000001000032494
-CCTV12,http://lt.hxtre.com:35455/itv/6000000001000022586.m3u8?cdn=wasusyt&Contentid=6000000001000022586
-CCTV12,http://lt.hxtre.com:35455/itv/1000000005000265012.m3u8?cdn=ystenlive&Contentid=1000000005000265012
-CCTV13,http://lt.hxtre.com:35455/itv/5000000011000031108.m3u8?cdn=bestzb&Contentid=5000000011000031108
-CCTV13,http://lt.hxtre.com:35455/itv/1000000002000021303.m3u8?cdn=ystenlive
-CCTV14,http://lt.hxtre.com:35455/itv/1000000001000008170.m3u8?cdn=ystenlive&Contentid=1000000001000008170
-CCTV14,http://lt.hxtre.com:35455/itv/5000000004000006673.m3u8?cdn=bestzb&Contentid=5000000004000006673
-CCTV14,http://lt.hxtre.com:35455/itv/1000000005000265013.m3u8?cdn=ystenlive&Contentid=1000000005000265013
-CCTV15,http://lt.hxtre.com:35455/itv/5000000011000031109.m3u8?cdn=bestzb&Contentid=5000000011000031109
-CCTV15,http://lt.hxtre.com:35455/itv/1000000005000265014.m3u8?cdn=ystenlive&Contentid=1000000005000265014
-CCTV16,http://lt.hxtre.com:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
-CCTV16,http://lt.hxtre.com:35455/itv/5000000008000023254.m3u8?cdn=bestzb&Contentid=5000000008000023254
-CCTV17,http://lt.hxtre.com:35455/itv/1000000006000268004.m3u8?cdn=ystenlive&Contentid=1000000006000268004
-CCTV17,http://lt.hxtre.com:35455/itv/1000000005000265015.m3u8?cdn=ystenlive&Contentid=1000000005000265015
+CCTV1,http://gf.you123.fun:35455/itv/6000000001000029752.m3u8?cdn=wasusyt&Contentid=6000000001000029752
+CCTV1,http://gf.you123.fun:35455/itv/5000000004000002226.m3u8?cdn=bestzb&Contentid=5000000004000002226
+CCTV1,http://gf.you123.fun:35455/itv/1000000005000265001.m3u8?cdn=ystenlive&Contentid=1000000005000265001
+CCTV2,http://gf.you123.fun:35455/itv/1000000001000023315.m3u8?cdn=ystenlive&Contentid=1000000001000023315
+CCTV2,http://gf.you123.fun:35455/itv/6000000001000014161.m3u8?cdn=wasusyt&Contentid=6000000001000014161
+CCTV3,http://gf.you123.fun:35455/itv/6000000001000022313.m3u8?cdn=wasusyt&Contentid=6000000001000022313
+CCTV3,http://gf.you123.fun:35455/itv/1000000005000265003.m3u8?cdn=ystenlive&Contentid=1000000005000265003
+CCTV4,http://gf.you123.fun:35455/itv/5000000011000031102.m3u8?cdn=bestzb&Contentid=5000000011000031102
+CCTV4,http://gf.you123.fun:35455/itv/1000000005000265004.m3u8?cdn=ystenlive&Contentid=1000000005000265004
+CCTV5,http://gf.you123.fun:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
+CCTV5,http://gf.you123.fun:35455/itv/1000000005000265005.m3u8?cdn=ystenlive&Contentid=1000000005000265005
+CCTV5+,http://gf.you123.fun:35455/itv/6000000001000015875.m3u8?cdn=wasusyt&Contentid=6000000001000015875
+CCTV5+,http://gf.you123.fun:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
+CCTV6,http://gf.you123.fun:35455/itv/1000000001000001737.m3u8?cdn=ystenlive&Contentid=1000000001000001737
+CCTV6,http://gf.you123.fun:35455/itv/6000000001000004574.m3u8?cdn=wasusyt&Contentid=6000000001000004574
+CCTV6,http://gf.you123.fun:35455/itv/1000000005000265006.m3u8?cdn=ystenlive&Contentid=1000000005000265006
+CCTV7,http://gf.you123.fun:35455/itv/1000000001000024341.m3u8?cdn=ystenlive&Contentid=1000000001000024341
+CCTV7,http://gf.you123.fun:35455/itv/6000000001000009055.m3u8?cdn=wasusyt&Contentid=6000000001000009055
+CCTV7,http://gf.you123.fun:35455/itv/1000000005000265007.m3u8?cdn=ystenlive&Contentid=1000000005000265007
+CCTV8,http://gf.you123.fun:35455/itv/6000000001000001070.m3u8?cdn=wasusyt&Contentid=6000000001000001070
+CCTV8,http://gf.you123.fun:35455/itv/1000000005000265008.m3u8?cdn=ystenlive&Contentid=1000000005000265008
+CCTV9,http://gf.you123.fun:35455/itv/1000000001000014583.m3u8?cdn=ystenlive&Contentid=1000000001000014583
+CCTV9,http://gf.you123.fun:35455/itv/6000000001000032162.m3u8?cdn=wasusyt&Contentid=6000000001000032162
+CCTV9,http://gf.you123.fun:35455/itv/1000000005000265009.m3u8?cdn=ystenlive&Contentid=1000000005000265009
+CCTV10,http://gf.you123.fun:35455/itv/1000000001000023734.m3u8?cdn=ystenlive&Contentid=1000000001000023734
+CCTV10,http://gf.you123.fun:35455/itv/5000000004000012827.m3u8?cdn=bestzb&Contentid=5000000004000012827
+CCTV10,http://gf.you123.fun:35455/itv/1000000005000265010.m3u8?cdn=ystenlive&Contentid=1000000005000265010
+CCTV11,http://gf.you123.fun:35455/itv/5000000011000031106.m3u8?cdn=bestzb&Contentid=5000000011000031106
+CCTV11,http://gf.you123.fun:35455/itv/1000000005000265011.m3u8?cdn=ystenlive&Contentid=1000000005000265011
+CCTV12,http://gf.you123.fun:35455/itv/1000000001000032494.m3u8?cdn=ystenlive&Contentid=1000000001000032494
+CCTV12,http://gf.you123.fun:35455/itv/6000000001000022586.m3u8?cdn=wasusyt&Contentid=6000000001000022586
+CCTV12,http://gf.you123.fun:35455/itv/1000000005000265012.m3u8?cdn=ystenlive&Contentid=1000000005000265012
+CCTV13,http://gf.you123.fun:35455/itv/5000000011000031108.m3u8?cdn=bestzb&Contentid=5000000011000031108
+CCTV13,http://gf.you123.fun:35455/itv/1000000002000021303.m3u8?cdn=ystenlive
+CCTV14,http://gf.you123.fun:35455/itv/1000000001000008170.m3u8?cdn=ystenlive&Contentid=1000000001000008170
+CCTV14,http://gf.you123.fun:35455/itv/5000000004000006673.m3u8?cdn=bestzb&Contentid=5000000004000006673
+CCTV14,http://gf.you123.fun:35455/itv/1000000005000265013.m3u8?cdn=ystenlive&Contentid=1000000005000265013
+CCTV15,http://gf.you123.fun:35455/itv/5000000011000031109.m3u8?cdn=bestzb&Contentid=5000000011000031109
+CCTV15,http://gf.you123.fun:35455/itv/1000000005000265014.m3u8?cdn=ystenlive&Contentid=1000000005000265014
+CCTV16,http://gf.you123.fun:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
+CCTV16,http://gf.you123.fun:35455/itv/5000000008000023254.m3u8?cdn=bestzb&Contentid=5000000008000023254
+CCTV17,http://gf.you123.fun:35455/itv/1000000006000268004.m3u8?cdn=ystenlive&Contentid=1000000006000268004
+CCTV17,http://gf.you123.fun:35455/itv/1000000005000265015.m3u8?cdn=ystenlive&Contentid=1000000005000265015
 
 
 
@@ -271,65 +271,65 @@ CGTN西语,http://tv.kmhlzxs.top:35455/itv/1000000006000280002.m3u8?cdn=ystenliv
 
 
 
-北京卫视,http://lt.hxtre.com:35455/itv/1000000005000265027.m3u8?cdn=ystenlive&Contentid=1000000005000265027
-安徽卫视,http://lt.hxtre.com:35455/itv/1000000001000030159.m3u8?cdn=ystenlive&Contentid=1000000001000030159
-安徽卫视,http://lt.hxtre.com:35455/itv/1000000005000265025.m3u8?cdn=ystenlive&Contentid=1000000005000265025
-东南卫视,http://lt.hxtre.com:35455/itv/5000000004000010584.m3u8?cdn=bestzb&Contentid=5000000004000010584
-东南卫视,http://lt.hxtre.com:35455/itv/1000000005000265033.m3u8?cdn=ystenlive&Contentid=1000000005000265033
-甘肃卫视,http://lt.hxtre.com:35455/itv/5000000011000031121.m3u8?cdn=bestzb&Contentid=5000000011000031121
-广东卫视,http://lt.hxtre.com:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
-广东卫视,http://lt.hxtre.com:35455/itv/1000000005000265034.m3u8?cdn=ystenlive&Contentid=1000000005000265034
-广西卫视,http://lt.hxtre.com:35455/itv/5000000011000031118.m3u8?cdn=bestzb&Contentid=5000000011000031118
-贵州卫视,http://lt.hxtre.com:35455/itv/5000000004000025843.m3u8?cdn=bestzb&Contentid=5000000004000025843
-海南卫视,http://lt.hxtre.com:35455/itv/5000000004000006211.m3u8?cdn=bestzb&Contentid=5000000004000006211
-河北卫视,http://lt.hxtre.com:35455/itv/5000000006000040016.m3u8?cdn=bestzb&Contentid=5000000006000040016
-河南卫视,http://lt.hxtre.com:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
-黑龙江卫视,http://lt.hxtre.com:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
-黑龙江卫视,http://lt.hxtre.com:35455/itv/1000000005000265029.m3u8?cdn=ystenlive&Contentid=1000000005000265029
-湖北卫视,http://lt.hxtre.com:35455/itv/1000000001000024621.m3u8?cdn=ystenlive&Contentid=1000000001000024621
-湖北卫视,http://lt.hxtre.com:35455/itv/1000000005000265023.m3u8?cdn=ystenlive&Contentid=1000000005000265023
-湖南卫视,http://lt.hxtre.com:35455/itv/5000000004000006692.m3u8?cdn=bestzb&Contentid=5000000004000006692
-湖南卫视,http://lt.hxtre.com:35455/itv/1000000005000265024.m3u8?cdn=ystenlive&Contentid=1000000005000265024
-吉林卫视,http://lt.hxtre.com:35455/itv/5000000011000031117.m3u8?cdn=bestzb&Contentid=5000000011000031117
-江苏卫视,http://lt.hxtre.com:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
-江苏卫视,http://lt.hxtre.com:35455/itv/1000000005000265030.m3u8?cdn=ystenlive&Contentid=1000000005000265030
-江西卫视,http://lt.hxtre.com:35455/itv/1000000006000268001.m3u8?cdn=ystenlive&Contentid=1000000006000268001
-江西卫视,http://lt.hxtre.com:35455/itv/1000000005000265032.m3u8?cdn=ystenlive&Contentid=1000000005000265032
-辽宁卫视,http://lt.hxtre.com:35455/itv/5000000004000011671.m3u8?cdn=bestzb&Contentid=5000000004000011671
-辽宁卫视,http://lt.hxtre.com:35455/itv/1000000005000265022.m3u8?cdn=ystenlive&Contentid=1000000005000265022
-青海卫视,http://lt.hxtre.com:35455/itv/1000000002000013359.m3u8?cdn=ystenlive&Contentid=1000000002000013359
-山东卫视,http://lt.hxtre.com:35455/itv/1000000005000265019.m3u8?cdn=ystenlive&Contentid=1000000005000265019
-东方卫视,http://lt.hxtre.com:35455/itv/5000000004000014098.m3u8?cdn=bestzb&Contentid=5000000004000014098
-东方卫视,http://lt.hxtre.com:35455/itv/1000000005000265018.m3u8?cdn=ystenlive&Contentid=1000000005000265018
-深圳卫视,http://lt.hxtre.com:35455/itv/5000000004000007410.m3u8?cdn=bestzb&Contentid=5000000004000007410
-深圳卫视,http://lt.hxtre.com:35455/itv/1000000005000265028.m3u8?cdn=ystenlive&Contentid=1000000005000265028
-四川卫视,http://lt.hxtre.com:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
-天津卫视,http://lt.hxtre.com:35455/itv/5000000004000006827.m3u8?cdn=bestzb&Contentid=5000000004000006827
-天津卫视,http://lt.hxtre.com:35455/itv/1000000005000265026.m3u8?cdn=ystenlive&Contentid=1000000005000265026
-云南卫视,http://lt.hxtre.com:35455/itv/5000000011000031120.m3u8?cdn=bestzb&Contentid=5000000011000031120
-浙江卫视,http://lt.hxtre.com:35455/itv/5000000004000007275.m3u8?cdn=bestzb&Contentid=5000000004000007275
-浙江卫视,http://lt.hxtre.com:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
-浙江卫视,http://lt.hxtre.com:35455/itv/1000000005000265031.m3u8?cdn=ystenlive&Contentid=1000000005000265031
-重庆卫视,http://lt.hxtre.com:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
-重庆卫视,http://lt.hxtre.com:35455/itv/1000000005000265017.m3u8?cdn=ystenlive&Contentid=1000000005000265017
-大湾区卫视,http://lt.hxtre.com:35455/itv/1000000002000011619.m3u8?cdn=ystenlive&Contentid=1000000002000011619
-厦门卫视,http://lt.hxtre.com:35455/itv/1000000005000266006.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000005000266006
-吉林卫视,http://lt.hxtre.com:35455/itv/1000000002000027730.m3u8?cdn=ystenlive&Contentid=1000000002000027730
-内蒙古卫视,http://lt.hxtre.com:35455/itv/1000000002000014080.m3u8?cdn=ystenlive&Contentid=1000000002000014080
-宁夏卫视,http://lt.hxtre.com:35455/itv/1000000002000031451.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000002000031451
-甘肃卫视,http://lt.hxtre.com:35455/itv/5000000011000031121.m3u8?cdn=bestzb
-山西卫视,http://lt.hxtre.com:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
-陕西卫视,http://lt.hxtre.com:35455/itv/5000000006000040017.m3u8?cdn=bestzb
-新疆卫视,http://lt.hxtre.com:35455/itv/1000000002000029441.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000002000029441
-新疆卫视,http://lt.hxtre.com:35455/itv/1000000002000029441.m3u8?cdn=ystenlive&Contentid=1000000002000029441
-西藏卫视,http://lt.hxtre.com:35455/itv/1000000002000015894.m3u8?cdn=ystenlive&Contentid=1000000002000015894
-兵团卫视,http://lt.hxtre.com:35455/itv/1000000005000266005.m3u8?cdn=ystenlive&Contentid=1000000005000266005
-安多卫视,http://lt.hxtre.com:35455/itv/1000000005000266001.m3u8?cdn=ystenlive&Contentid=1000000005000266001
-康巴卫视,http://lt.hxtre.com:35455/itv/1000000005000266002.m3u8?cdn=ystenlive&Contentid=1000000005000266002
-农林卫视,http://lt.hxtre.com:35455/itv/1000000005000266003.m3u8?cdn=ystenlive&Contentid=1000000005000266003
-延边卫视,http://lt.hxtre.com:35455/itv/1000000005000266008.m3u8?cdn=ystenlive&Contentid=1000000005000266008
-三沙卫视,http://lt.hxtre.com:35455/itv/5000000011000288016.m3u8?cdn=bestzb
-山东教育,http://lt.hxtre.com:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
+北京卫视,http://gf.you123.fun:35455/itv/1000000005000265027.m3u8?cdn=ystenlive&Contentid=1000000005000265027
+安徽卫视,http://gf.you123.fun:35455/itv/1000000001000030159.m3u8?cdn=ystenlive&Contentid=1000000001000030159
+安徽卫视,http://gf.you123.fun:35455/itv/1000000005000265025.m3u8?cdn=ystenlive&Contentid=1000000005000265025
+东南卫视,http://gf.you123.fun:35455/itv/5000000004000010584.m3u8?cdn=bestzb&Contentid=5000000004000010584
+东南卫视,http://gf.you123.fun:35455/itv/1000000005000265033.m3u8?cdn=ystenlive&Contentid=1000000005000265033
+甘肃卫视,http://gf.you123.fun:35455/itv/5000000011000031121.m3u8?cdn=bestzb&Contentid=5000000011000031121
+广东卫视,http://gf.you123.fun:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
+广东卫视,http://gf.you123.fun:35455/itv/1000000005000265034.m3u8?cdn=ystenlive&Contentid=1000000005000265034
+广西卫视,http://gf.you123.fun:35455/itv/5000000011000031118.m3u8?cdn=bestzb&Contentid=5000000011000031118
+贵州卫视,http://gf.you123.fun:35455/itv/5000000004000025843.m3u8?cdn=bestzb&Contentid=5000000004000025843
+海南卫视,http://gf.you123.fun:35455/itv/5000000004000006211.m3u8?cdn=bestzb&Contentid=5000000004000006211
+河北卫视,http://gf.you123.fun:35455/itv/5000000006000040016.m3u8?cdn=bestzb&Contentid=5000000006000040016
+河南卫视,http://gf.you123.fun:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
+黑龙江卫视,http://gf.you123.fun:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
+黑龙江卫视,http://gf.you123.fun:35455/itv/1000000005000265029.m3u8?cdn=ystenlive&Contentid=1000000005000265029
+湖北卫视,http://gf.you123.fun:35455/itv/1000000001000024621.m3u8?cdn=ystenlive&Contentid=1000000001000024621
+湖北卫视,http://gf.you123.fun:35455/itv/1000000005000265023.m3u8?cdn=ystenlive&Contentid=1000000005000265023
+湖南卫视,http://gf.you123.fun:35455/itv/5000000004000006692.m3u8?cdn=bestzb&Contentid=5000000004000006692
+湖南卫视,http://gf.you123.fun:35455/itv/1000000005000265024.m3u8?cdn=ystenlive&Contentid=1000000005000265024
+吉林卫视,http://gf.you123.fun:35455/itv/5000000011000031117.m3u8?cdn=bestzb&Contentid=5000000011000031117
+江苏卫视,http://gf.you123.fun:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
+江苏卫视,http://gf.you123.fun:35455/itv/1000000005000265030.m3u8?cdn=ystenlive&Contentid=1000000005000265030
+江西卫视,http://gf.you123.fun:35455/itv/1000000006000268001.m3u8?cdn=ystenlive&Contentid=1000000006000268001
+江西卫视,http://gf.you123.fun:35455/itv/1000000005000265032.m3u8?cdn=ystenlive&Contentid=1000000005000265032
+辽宁卫视,http://gf.you123.fun:35455/itv/5000000004000011671.m3u8?cdn=bestzb&Contentid=5000000004000011671
+辽宁卫视,http://gf.you123.fun:35455/itv/1000000005000265022.m3u8?cdn=ystenlive&Contentid=1000000005000265022
+青海卫视,http://gf.you123.fun:35455/itv/1000000002000013359.m3u8?cdn=ystenlive&Contentid=1000000002000013359
+山东卫视,http://gf.you123.fun:35455/itv/1000000005000265019.m3u8?cdn=ystenlive&Contentid=1000000005000265019
+东方卫视,http://gf.you123.fun:35455/itv/5000000004000014098.m3u8?cdn=bestzb&Contentid=5000000004000014098
+东方卫视,http://gf.you123.fun:35455/itv/1000000005000265018.m3u8?cdn=ystenlive&Contentid=1000000005000265018
+深圳卫视,http://gf.you123.fun:35455/itv/5000000004000007410.m3u8?cdn=bestzb&Contentid=5000000004000007410
+深圳卫视,http://gf.you123.fun:35455/itv/1000000005000265028.m3u8?cdn=ystenlive&Contentid=1000000005000265028
+四川卫视,http://gf.you123.fun:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
+天津卫视,http://gf.you123.fun:35455/itv/5000000004000006827.m3u8?cdn=bestzb&Contentid=5000000004000006827
+天津卫视,http://gf.you123.fun:35455/itv/1000000005000265026.m3u8?cdn=ystenlive&Contentid=1000000005000265026
+云南卫视,http://gf.you123.fun:35455/itv/5000000011000031120.m3u8?cdn=bestzb&Contentid=5000000011000031120
+浙江卫视,http://gf.you123.fun:35455/itv/5000000004000007275.m3u8?cdn=bestzb&Contentid=5000000004000007275
+浙江卫视,http://gf.you123.fun:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
+浙江卫视,http://gf.you123.fun:35455/itv/1000000005000265031.m3u8?cdn=ystenlive&Contentid=1000000005000265031
+重庆卫视,http://gf.you123.fun:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
+重庆卫视,http://gf.you123.fun:35455/itv/1000000005000265017.m3u8?cdn=ystenlive&Contentid=1000000005000265017
+大湾区卫视,http://gf.you123.fun:35455/itv/1000000002000011619.m3u8?cdn=ystenlive&Contentid=1000000002000011619
+厦门卫视,http://gf.you123.fun:35455/itv/1000000005000266006.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000005000266006
+吉林卫视,http://gf.you123.fun:35455/itv/1000000002000027730.m3u8?cdn=ystenlive&Contentid=1000000002000027730
+内蒙古卫视,http://gf.you123.fun:35455/itv/1000000002000014080.m3u8?cdn=ystenlive&Contentid=1000000002000014080
+宁夏卫视,http://gf.you123.fun:35455/itv/1000000002000031451.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000002000031451
+甘肃卫视,http://gf.you123.fun:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+山西卫视,http://gf.you123.fun:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
+陕西卫视,http://gf.you123.fun:35455/itv/5000000006000040017.m3u8?cdn=bestzb
+新疆卫视,http://gf.you123.fun:35455/itv/1000000002000029441.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000002000029441
+新疆卫视,http://gf.you123.fun:35455/itv/1000000002000029441.m3u8?cdn=ystenlive&Contentid=1000000002000029441
+西藏卫视,http://gf.you123.fun:35455/itv/1000000002000015894.m3u8?cdn=ystenlive&Contentid=1000000002000015894
+兵团卫视,http://gf.you123.fun:35455/itv/1000000005000266005.m3u8?cdn=ystenlive&Contentid=1000000005000266005
+安多卫视,http://gf.you123.fun:35455/itv/1000000005000266001.m3u8?cdn=ystenlive&Contentid=1000000005000266001
+康巴卫视,http://gf.you123.fun:35455/itv/1000000005000266002.m3u8?cdn=ystenlive&Contentid=1000000005000266002
+农林卫视,http://gf.you123.fun:35455/itv/1000000005000266003.m3u8?cdn=ystenlive&Contentid=1000000005000266003
+延边卫视,http://gf.you123.fun:35455/itv/1000000005000266008.m3u8?cdn=ystenlive&Contentid=1000000005000266008
+三沙卫视,http://gf.you123.fun:35455/itv/5000000011000288016.m3u8?cdn=bestzb
+山东教育,http://gf.you123.fun:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
 
 
 
@@ -356,14 +356,14 @@ CGTN西语,http://tv.kmhlzxs.top:35455/itv/1000000006000280002.m3u8?cdn=ystenliv
 
 
 
-上海外语,http://lt.hxtre.com:35455/itv/5000000010000030951.m3u8?cdn=bestzb&Contentid=5000000010000030951
-第一财经,http://lt.hxtre.com:35455/itv/5000000010000027146.m3u8?cdn=bestzb&Contentid=5000000010000027146
-东方财经,http://lt.hxtre.com:35455/itv/5000000007000010003.m3u8?cdn=bestzb&Contentid=5000000007000010003
-东方影视,http://lt.hxtre.com:35455/itv/5000000010000032212.m3u8?cdn=bestzb&Contentid=5000000010000032212
-上海都市,http://lt.hxtre.com:35455/itv/5000000010000018926.m3u8?cdn=bestzb&Contentid=5000000010000018926
-纪实人文,http://lt.hxtre.com:35455/itv/5000000004000010282.m3u8?cdn=bestzb&Contentid=5000000004000010282
-纪实人文,http://lt.hxtre.com:35455/itv/1000000005000265021.m3u8?cdn=ystenlive&Contentid=1000000005000265021
-五星体育,http://lt.hxtre.com:35455/itv/5000000010000017540.m3u8?cdn=bestzb&Contentid=5000000010000017540
+上海外语,http://gf.you123.fun:35455/itv/5000000010000030951.m3u8?cdn=bestzb&Contentid=5000000010000030951
+第一财经,http://gf.you123.fun:35455/itv/5000000010000027146.m3u8?cdn=bestzb&Contentid=5000000010000027146
+东方财经,http://gf.you123.fun:35455/itv/5000000007000010003.m3u8?cdn=bestzb&Contentid=5000000007000010003
+东方影视,http://gf.you123.fun:35455/itv/5000000010000032212.m3u8?cdn=bestzb&Contentid=5000000010000032212
+上海都市,http://gf.you123.fun:35455/itv/5000000010000018926.m3u8?cdn=bestzb&Contentid=5000000010000018926
+纪实人文,http://gf.you123.fun:35455/itv/5000000004000010282.m3u8?cdn=bestzb&Contentid=5000000004000010282
+纪实人文,http://gf.you123.fun:35455/itv/1000000005000265021.m3u8?cdn=ystenlive&Contentid=1000000005000265021
+五星体育,http://gf.you123.fun:35455/itv/5000000010000017540.m3u8?cdn=bestzb&Contentid=5000000010000017540
 
 第一财经,https://a21709.tv.netsite.cc/proxy/1946402424/1946402424.m3u8
 纪实人文,https://a21709.tv.netsite.cc/proxy/1975883896/1975883896.m3u8
@@ -440,21 +440,21 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 咪咕4K2,http://2000.run:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive&Contentid=3000000010000015686
 咪咕4K3,http://2000.run:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive&Contentid=3000000001000005308
 咪咕4K4,http://2000.run:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive&Contentid=3000000001000005969
-咪咕4K1,http://ct.370829.xyz:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive&Contentid=3000000010000005180
-咪咕4K2,http://ct.370829.xyz:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive&Contentid=3000000010000015686
-咪咕4K3,http://ct.370829.xyz:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive&Contentid=3000000001000005308
-咪咕4K4,http://ct.370829.xyz:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive&Contentid=3000000001000005969
+咪咕4K1,http://gf.you123.fun:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive&Contentid=3000000010000005180
+咪咕4K2,http://gf.you123.fun:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive&Contentid=3000000010000015686
+咪咕4K3,http://gf.you123.fun:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive&Contentid=3000000001000005308
+咪咕4K4,http://gf.you123.fun:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive&Contentid=3000000001000005969
 咪咕4K1,http://3501776.xyz:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive&Contentid=3000000010000005180
 咪咕4K2,http://3501776.xyz:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive&Contentid=3000000010000015686
 咪咕4K3,http://3501776.xyz:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive&Contentid=3000000001000005308
 咪咕4K4,http://3501776.xyz:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive&Contentid=3000000001000005969
-咪咕直播,http://ct.370829.xyz:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-咪咕直播,http://ct.370829.xyz:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-咪咕直播,http://ct.370829.xyz:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+咪咕直播,http://gf.you123.fun:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+咪咕直播,http://gf.you123.fun:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+咪咕直播,http://gf.you123.fun:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
 
-华数4K,http://lt.hxtre.com:35455/itv/6000000003000004748.m3u8?cdn=wasusyt&Contentid=6000000003000004748
-纯享4K,http://lt.hxtre.com:35455/itv/1000000004000011651.m3u8?cdn=ystenlive&Contentid=1000000004000011651
-咪咕4K1,http://lt.hxtre.com:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive&Contentid=3000000010000005180
+华数4K,http://gf.you123.fun:35455/itv/6000000003000004748.m3u8?cdn=wasusyt&Contentid=6000000003000004748
+纯享4K,http://gf.you123.fun:35455/itv/1000000004000011651.m3u8?cdn=ystenlive&Contentid=1000000004000011651
+咪咕4K1,http://gf.you123.fun:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive&Contentid=3000000010000005180
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 漫威电影,http://jiaojirentv.top/2020/dy.php?id=6140589
@@ -468,10 +468,10 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 求索生活,http://2000.run:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 
 
-求索动物,http://lt.hxtre.com:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
-求索纪录,http://lt.hxtre.com:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
-求索科学,http://lt.hxtre.com:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
-求索生活,http://lt.hxtre.com:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
+求索动物,http://gf.you123.fun:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索纪录,http://gf.you123.fun:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索科学,http://gf.you123.fun:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+求索生活,http://gf.you123.fun:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 
 
 
@@ -490,13 +490,13 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 快乐垂钓,http://2000.run:35455/itv/5000000011000031206.m3u8?cdn=bestzb&Contentid=5000000011000031206
 茶频道,http://2000.run:35455/itv/5000000011000031209.m3u8?cdn=bestzb&Contentid=5000000011000031209
 
-湖南电视剧,http://lt.hxtre.com:35455/itv/8765482907954673867.m3u8?cdn=hnbblive&Contentid=8765482907954673867
-湖南爱晚,http://lt.hxtre.com:35455/itv/6307875884530512195.m3u8?cdn=hnbblive&Contentid=6307875884530512195
-湖南电影,http://lt.hxtre.com:35455/itv/7884242846753128038.m3u8?cdn=hnbblive&Contentid=7884242846753128038
-湖南国际,http://lt.hxtre.com:35455/itv/5015828848322021526.m3u8?cdn=hnbblive&Contentid=5015828848322021526
-金鹰纪实,http://lt.hxtre.com:35455/itv/5000000011000031203.m3u8?cdn=bestzb&Contentid=5000000011000031203
-快乐垂钓,http://lt.hxtre.com:35455/itv/5000000011000031206.m3u8?cdn=bestzb&Contentid=5000000011000031206
-茶频道,http://lt.hxtre.com:35455/itv/5000000011000031209.m3u8?cdn=bestzb&Contentid=5000000011000031209
+湖南电视剧,http://gf.you123.fun:35455/itv/8765482907954673867.m3u8?cdn=hnbblive&Contentid=8765482907954673867
+湖南爱晚,http://gf.you123.fun:35455/itv/6307875884530512195.m3u8?cdn=hnbblive&Contentid=6307875884530512195
+湖南电影,http://gf.you123.fun:35455/itv/7884242846753128038.m3u8?cdn=hnbblive&Contentid=7884242846753128038
+湖南国际,http://gf.you123.fun:35455/itv/5015828848322021526.m3u8?cdn=hnbblive&Contentid=5015828848322021526
+金鹰纪实,http://gf.you123.fun:35455/itv/5000000011000031203.m3u8?cdn=bestzb&Contentid=5000000011000031203
+快乐垂钓,http://gf.you123.fun:35455/itv/5000000011000031206.m3u8?cdn=bestzb&Contentid=5000000011000031206
+茶频道,http://gf.you123.fun:35455/itv/5000000011000031209.m3u8?cdn=bestzb&Contentid=5000000011000031209
 
 动漫秀场,http://2000.run:35455/itv/5000000011000031113.m3u8?cdn=bestzb&Contentid=5000000011000031113
 都市剧场,http://2000.run:35455/itv/5000000011000031111.m3u8?cdn=bestzb&Contentid=5000000011000031111
@@ -513,20 +513,20 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 精彩影视,http://2000.run:35455/itv/2000000004000000063.m3u8?cdn=hnbblive&Contentid=2000000004000000063
 精彩影视,http://2000.run:35455/itv/6000000006000320630.m3u8?cdn=wasusyt&Contentid=6000000006000320630
 
-动漫秀场,http://lt.hxtre.com:35455/itv/5000000011000031113.m3u8?cdn=bestzb&Contentid=5000000011000031113
-都市剧场,http://lt.hxtre.com:35455/itv/5000000011000031111.m3u8?cdn=bestzb&Contentid=5000000011000031111
-法治天地,http://lt.hxtre.com:35455/itv/9001547084732463424.m3u8?cdn=bestzb&Contentid=9001547084732463424
-欢笑剧场,http://lt.hxtre.com:35455/itv/5000000002000009455.m3u8?cdn=bestzb&Contentid=5000000002000009455
-欢笑剧场,http://lt.hxtre.com:35455/itv/5000000007000010001.m3u8?cdn=bestzb&Contentid=5000000007000010001
-金色学堂,http://lt.hxtre.com:35455/itv/5000000010000026105.m3u8?cdn=bestzb&Contentid=5000000010000026105
-劲爆体育,http://lt.hxtre.com:35455/itv/5000000002000029972.m3u8?cdn=bestzb&Contentid=5000000002000029972
-乐游,http://lt.hxtre.com:35455/itv/5000000011000031112.m3u8?cdn=bestzb&Contentid=5000000011000031112
-魅力足球,http://lt.hxtre.com:35455/itv/5000000011000031207.m3u8?cdn=bestzb&Contentid=5000000011000031207
-七彩戏剧,http://lt.hxtre.com:35455/itv/5000000011000031116.m3u8?cdn=bestzb&Contentid=5000000011000031116
-生活时尚,http://lt.hxtre.com:35455/itv/5000000002000019634.m3u8?cdn=bestzb&Contentid=5000000002000019634
-游戏风云,http://lt.hxtre.com:35455/itv/5000000011000031114.m3u8?cdn=bestzb&Contentid=5000000011000031114
-精彩影视,http://lt.hxtre.com:35455/itv/2000000004000000063.m3u8?cdn=hnbblive&Contentid=2000000004000000063
-精彩影视,http://lt.hxtre.com:35455/itv/6000000006000320630.m3u8?cdn=wasusyt&Contentid=6000000006000320630
+动漫秀场,http://gf.you123.fun:35455/itv/5000000011000031113.m3u8?cdn=bestzb&Contentid=5000000011000031113
+都市剧场,http://gf.you123.fun:35455/itv/5000000011000031111.m3u8?cdn=bestzb&Contentid=5000000011000031111
+法治天地,http://gf.you123.fun:35455/itv/9001547084732463424.m3u8?cdn=bestzb&Contentid=9001547084732463424
+欢笑剧场,http://gf.you123.fun:35455/itv/5000000002000009455.m3u8?cdn=bestzb&Contentid=5000000002000009455
+欢笑剧场,http://gf.you123.fun:35455/itv/5000000007000010001.m3u8?cdn=bestzb&Contentid=5000000007000010001
+金色学堂,http://gf.you123.fun:35455/itv/5000000010000026105.m3u8?cdn=bestzb&Contentid=5000000010000026105
+劲爆体育,http://gf.you123.fun:35455/itv/5000000002000029972.m3u8?cdn=bestzb&Contentid=5000000002000029972
+乐游,http://gf.you123.fun:35455/itv/5000000011000031112.m3u8?cdn=bestzb&Contentid=5000000011000031112
+魅力足球,http://gf.you123.fun:35455/itv/5000000011000031207.m3u8?cdn=bestzb&Contentid=5000000011000031207
+七彩戏剧,http://gf.you123.fun:35455/itv/5000000011000031116.m3u8?cdn=bestzb&Contentid=5000000011000031116
+生活时尚,http://gf.you123.fun:35455/itv/5000000002000019634.m3u8?cdn=bestzb&Contentid=5000000002000019634
+游戏风云,http://gf.you123.fun:35455/itv/5000000011000031114.m3u8?cdn=bestzb&Contentid=5000000011000031114
+精彩影视,http://gf.you123.fun:35455/itv/2000000004000000063.m3u8?cdn=hnbblive&Contentid=2000000004000000063
+精彩影视,http://gf.you123.fun:35455/itv/6000000006000320630.m3u8?cdn=wasusyt&Contentid=6000000006000320630
 
 
 
@@ -729,30 +729,30 @@ iHot欧美影院,http://2000.run:35455/itv/7185203501769528108.m3u8?cdn=wasusyt&
 iHot亚洲影院,http://2000.run:35455/itv/2000000004000000006.m3u8?cdn=hnbblive&Contentid=2000000004000000006
 iHot亚洲影院,http://2000.run:35455/itv/5841816227539527643.m3u8?cdn=wasusyt&Contentid=5841816227539527643
 
-iHOT爱谍战,http://lt.hxtre.com:35455/itv/6000000006000070630.m3u8?cdn=wasusyt&Contentid=6000000006000070630
-iHOT爱动漫,http://lt.hxtre.com:35455/itv/6000000006000280630.m3u8?cdn=wasusyt&Contentid=6000000006000280630
-iHOT爱科幻,http://lt.hxtre.com:35455/itv/6000000006000020630.m3u8?cdn=wasusyt&Contentid=6000000006000020630
-iHOT爱科学,http://lt.hxtre.com:35455/itv/6000000006000160630.m3u8?cdn=wasusyt&Contentid=6000000006000160630
-iHOT爱浪漫,http://lt.hxtre.com:35455/itv/6000000006000040630.m3u8?cdn=wasusyt&Contentid=6000000006000040630
-iHOT爱历史,http://lt.hxtre.com:35455/itv/6000000006000150630.m3u8?cdn=wasusyt&Contentid=6000000006000150630
-iHOT爱旅行,http://lt.hxtre.com:35455/itv/6000000006000250630.m3u8?cdn=wasusyt&Contentid=6000000006000250630
-iHOT爱奇谈,http://lt.hxtre.com:35455/itv/6000000006000270630.m3u8?cdn=wasusyt&Contentid=6000000006000270630
-iHOT爱青春,http://lt.hxtre.com:35455/itv/6000000006000100630.m3u8?cdn=wasusyt&Contentid=6000000006000100630
-iHOT爱赛车,http://lt.hxtre.com:35455/itv/6000000006000240630.m3u8?cdn=wasusyt&Contentid=6000000006000240630
-iHOT爱体育,http://lt.hxtre.com:35455/itv/6000000006000290630.m3u8?cdn=wasusyt&Contentid=6000000006000290630
-iHOT爱玩具,http://lt.hxtre.com:35455/itv/6000000006000220630.m3u8?cdn=wasusyt&Contentid=6000000006000220630
-iHOT爱喜剧,http://lt.hxtre.com:35455/itv/6000000006000010630.m3u8?cdn=wasusyt&Contentid=6000000006000010630
-iHOT爱悬疑,http://lt.hxtre.com:35455/itv/6000000006000050630.m3u8?cdn=wasusyt&Contentid=6000000006000050630
-iHOT爱幼教,http://lt.hxtre.com:35455/itv/6000000006000180630.m3u8?cdn=wasusyt&Contentid=6000000006000180630
-iHOT爱院线,http://lt.hxtre.com:35455/itv/6000000006000030630.m3u8?cdn=wasusyt&Contentid=6000000006000030630
-iHot风尚音乐,http://lt.hxtre.com:35455/itv/2000000004000000004.m3u8?cdn=hnbblive&Contentid=2000000004000000004
-iHot风尚音乐,http://lt.hxtre.com:35455/itv/5529729098703832176.m3u8?cdn=wasusyt&Contentid=5529729098703832176
-iHot精品剧场,http://lt.hxtre.com:35455/itv/2000000004000000002.m3u8?cdn=hnbblive&Contentid=2000000004000000002
-iHot精品剧场,http://lt.hxtre.com:35455/itv/8230197131234717902.m3u8?cdn=wasusyt&Contentid=8230197131234717902
-iHot欧美影院,http://lt.hxtre.com:35455/itv/2000000004000000005.m3u8?cdn=hnbblive&Contentid=2000000004000000005
-iHot欧美影院,http://lt.hxtre.com:35455/itv/7185203501769528108.m3u8?cdn=wasusyt&Contentid=7185203501769528108
-iHot亚洲影院,http://lt.hxtre.com:35455/itv/2000000004000000006.m3u8?cdn=hnbblive&Contentid=2000000004000000006
-iHot亚洲影院,http://lt.hxtre.com:35455/itv/5841816227539527643.m3u8?cdn=wasusyt&Contentid=5841816227539527643
+iHOT爱谍战,http://gf.you123.fun:35455/itv/6000000006000070630.m3u8?cdn=wasusyt&Contentid=6000000006000070630
+iHOT爱动漫,http://gf.you123.fun:35455/itv/6000000006000280630.m3u8?cdn=wasusyt&Contentid=6000000006000280630
+iHOT爱科幻,http://gf.you123.fun:35455/itv/6000000006000020630.m3u8?cdn=wasusyt&Contentid=6000000006000020630
+iHOT爱科学,http://gf.you123.fun:35455/itv/6000000006000160630.m3u8?cdn=wasusyt&Contentid=6000000006000160630
+iHOT爱浪漫,http://gf.you123.fun:35455/itv/6000000006000040630.m3u8?cdn=wasusyt&Contentid=6000000006000040630
+iHOT爱历史,http://gf.you123.fun:35455/itv/6000000006000150630.m3u8?cdn=wasusyt&Contentid=6000000006000150630
+iHOT爱旅行,http://gf.you123.fun:35455/itv/6000000006000250630.m3u8?cdn=wasusyt&Contentid=6000000006000250630
+iHOT爱奇谈,http://gf.you123.fun:35455/itv/6000000006000270630.m3u8?cdn=wasusyt&Contentid=6000000006000270630
+iHOT爱青春,http://gf.you123.fun:35455/itv/6000000006000100630.m3u8?cdn=wasusyt&Contentid=6000000006000100630
+iHOT爱赛车,http://gf.you123.fun:35455/itv/6000000006000240630.m3u8?cdn=wasusyt&Contentid=6000000006000240630
+iHOT爱体育,http://gf.you123.fun:35455/itv/6000000006000290630.m3u8?cdn=wasusyt&Contentid=6000000006000290630
+iHOT爱玩具,http://gf.you123.fun:35455/itv/6000000006000220630.m3u8?cdn=wasusyt&Contentid=6000000006000220630
+iHOT爱喜剧,http://gf.you123.fun:35455/itv/6000000006000010630.m3u8?cdn=wasusyt&Contentid=6000000006000010630
+iHOT爱悬疑,http://gf.you123.fun:35455/itv/6000000006000050630.m3u8?cdn=wasusyt&Contentid=6000000006000050630
+iHOT爱幼教,http://gf.you123.fun:35455/itv/6000000006000180630.m3u8?cdn=wasusyt&Contentid=6000000006000180630
+iHOT爱院线,http://gf.you123.fun:35455/itv/6000000006000030630.m3u8?cdn=wasusyt&Contentid=6000000006000030630
+iHot风尚音乐,http://gf.you123.fun:35455/itv/2000000004000000004.m3u8?cdn=hnbblive&Contentid=2000000004000000004
+iHot风尚音乐,http://gf.you123.fun:35455/itv/5529729098703832176.m3u8?cdn=wasusyt&Contentid=5529729098703832176
+iHot精品剧场,http://gf.you123.fun:35455/itv/2000000004000000002.m3u8?cdn=hnbblive&Contentid=2000000004000000002
+iHot精品剧场,http://gf.you123.fun:35455/itv/8230197131234717902.m3u8?cdn=wasusyt&Contentid=8230197131234717902
+iHot欧美影院,http://gf.you123.fun:35455/itv/2000000004000000005.m3u8?cdn=hnbblive&Contentid=2000000004000000005
+iHot欧美影院,http://gf.you123.fun:35455/itv/7185203501769528108.m3u8?cdn=wasusyt&Contentid=7185203501769528108
+iHot亚洲影院,http://gf.you123.fun:35455/itv/2000000004000000006.m3u8?cdn=hnbblive&Contentid=2000000004000000006
+iHot亚洲影院,http://gf.you123.fun:35455/itv/5841816227539527643.m3u8?cdn=wasusyt&Contentid=5841816227539527643
 
 
 
@@ -800,37 +800,37 @@ NewTV频道,#genre#
 
 
 
-精品综合,http://lt.hxtre.com:35455/itv/1000000004000019008.m3u8?cdn=ystenlive&Contentid=1000000004000019008
-精品大剧,http://lt.hxtre.com:35455/itv/1000000004000013968.m3u8?cdn=ystenlive&Contentid=1000000004000013968
-精品纪录,http://lt.hxtre.com:35455/itv/1000000004000013730.m3u8?cdn=ystenlive&Contentid=1000000004000013730
-精品体育,http://lt.hxtre.com:35455/itv/1000000004000014634.m3u8?cdn=ystenlive&Contentid=1000000004000014634
-精品萌宠,http://lt.hxtre.com:35455/itv/1000000006000032328.m3u8?cdn=ystenlive&Contentid=1000000006000032328
-爱情喜剧,http://lt.hxtre.com:35455/itv/2000000003000000010.m3u8?cdn=hnbblive&Contentid=2000000003000000010
-超级电视剧,http://lt.hxtre.com:35455/itv/1000000006000268003.m3u8?cdn=ystenlive&Contentid=1000000006000268003
-超级电影,http://lt.hxtre.com:35455/itv/1000000003000012426.m3u8?cdn=ystenlive&Contentid=1000000003000012426
-超级体育,http://lt.hxtre.com:35455/itv/1000000001000009601.m3u8?cdn=ystenlive&Contentid=1000000001000009601
-超级综艺,http://lt.hxtre.com:35455/itv/1000000006000268002.m3u8?cdn=ystenlive&Contentid=1000000006000268002
-潮妈辣婆,http://lt.hxtre.com:35455/itv/2000000003000000018.m3u8?cdn=hnbblive&Contentid=2000000003000000018
-东北热剧,http://lt.hxtre.com:35455/itv/1000000005000266013.m3u8?cdn=ystenlive&Contentid=1000000005000266013
-动作电影,http://lt.hxtre.com:35455/itv/1000000004000018653.m3u8?cdn=ystenlive&Contentid=1000000004000018653
-古装剧场,http://lt.hxtre.com:35455/itv/2000000003000000024.m3u8?cdn=hnbblive&Contentid=2000000003000000024
-欢乐剧场,http://lt.hxtre.com:35455/itv/1000000005000266012.m3u8?cdn=ystenlive&Contentid=1000000005000266012
-家庭剧场,http://lt.hxtre.com:35455/itv/1000000004000008284.m3u8?cdn=ystenlive&Contentid=1000000004000008284
-金牌综艺,http://lt.hxtre.com:35455/itv/1000000004000026167.m3u8?cdn=ystenlive&Contentid=1000000004000026167
-惊悚悬疑,http://lt.hxtre.com:35455/itv/1000000004000024282.m3u8?cdn=ystenlive&Contentid=1000000004000024282
-军旅剧场,http://lt.hxtre.com:35455/itv/2000000003000000014.m3u8?cdn=hnbblive&Contentid=2000000003000000014
-军事评论,http://lt.hxtre.com:35455/itv/2000000003000000022.m3u8?cdn=hnbblive&Contentid=2000000003000000022
-魅力潇湘,http://lt.hxtre.com:35455/itv/1000000001000006197.m3u8?cdn=ystenlive&Contentid=1000000001000006197
-明星大片,http://lt.hxtre.com:35455/itv/2000000003000000016.m3u8?cdn=hnbblive&Contentid=2000000003000000016
-农业致富,http://lt.hxtre.com:35455/itv/2000000003000000003.m3u8?cdn=hnbblive&Contentid=2000000003000000003
-武博世界,http://lt.hxtre.com:35455/itv/2000000003000000007.m3u8?cdn=hnbblive&Contentid=2000000003000000007
-炫舞未来,http://lt.hxtre.com:35455/itv/1000000001000000515.m3u8?cdn=ystenlive&Contentid=1000000001000000515
-怡伴健康,http://lt.hxtre.com:35455/itv/1000000005000266011.m3u8?cdn=ystenlive&Contentid=1000000005000266011
-中国功夫,http://lt.hxtre.com:35455/itv/2000000003000000009.m3u8?cdn=hnbblive&Contentid=2000000003000000009
-黑莓电影,http://lt.hxtre.com:35455/itv/1000000004000019624.m3u8?cdn=ystenlive&Contentid=1000000004000019624
-黑莓动画,http://lt.hxtre.com:35455/itv/1000000004000021734.m3u8?cdn=ystenlive&Contentid=1000000004000021734
-哒啵电竞,http://lt.hxtre.com:35455/itv/1000000006000032327.m3u8?cdn=ystenlive&Contentid=1000000006000032327
-哒啵赛事,http://lt.hxtre.com:35455/itv/1000000001000003775.m3u8?cdn=ystenlive&Contentid=1000000001000003775
+精品综合,http://gf.you123.fun:35455/itv/1000000004000019008.m3u8?cdn=ystenlive&Contentid=1000000004000019008
+精品大剧,http://gf.you123.fun:35455/itv/1000000004000013968.m3u8?cdn=ystenlive&Contentid=1000000004000013968
+精品纪录,http://gf.you123.fun:35455/itv/1000000004000013730.m3u8?cdn=ystenlive&Contentid=1000000004000013730
+精品体育,http://gf.you123.fun:35455/itv/1000000004000014634.m3u8?cdn=ystenlive&Contentid=1000000004000014634
+精品萌宠,http://gf.you123.fun:35455/itv/1000000006000032328.m3u8?cdn=ystenlive&Contentid=1000000006000032328
+爱情喜剧,http://gf.you123.fun:35455/itv/2000000003000000010.m3u8?cdn=hnbblive&Contentid=2000000003000000010
+超级电视剧,http://gf.you123.fun:35455/itv/1000000006000268003.m3u8?cdn=ystenlive&Contentid=1000000006000268003
+超级电影,http://gf.you123.fun:35455/itv/1000000003000012426.m3u8?cdn=ystenlive&Contentid=1000000003000012426
+超级体育,http://gf.you123.fun:35455/itv/1000000001000009601.m3u8?cdn=ystenlive&Contentid=1000000001000009601
+超级综艺,http://gf.you123.fun:35455/itv/1000000006000268002.m3u8?cdn=ystenlive&Contentid=1000000006000268002
+潮妈辣婆,http://gf.you123.fun:35455/itv/2000000003000000018.m3u8?cdn=hnbblive&Contentid=2000000003000000018
+东北热剧,http://gf.you123.fun:35455/itv/1000000005000266013.m3u8?cdn=ystenlive&Contentid=1000000005000266013
+动作电影,http://gf.you123.fun:35455/itv/1000000004000018653.m3u8?cdn=ystenlive&Contentid=1000000004000018653
+古装剧场,http://gf.you123.fun:35455/itv/2000000003000000024.m3u8?cdn=hnbblive&Contentid=2000000003000000024
+欢乐剧场,http://gf.you123.fun:35455/itv/1000000005000266012.m3u8?cdn=ystenlive&Contentid=1000000005000266012
+家庭剧场,http://gf.you123.fun:35455/itv/1000000004000008284.m3u8?cdn=ystenlive&Contentid=1000000004000008284
+金牌综艺,http://gf.you123.fun:35455/itv/1000000004000026167.m3u8?cdn=ystenlive&Contentid=1000000004000026167
+惊悚悬疑,http://gf.you123.fun:35455/itv/1000000004000024282.m3u8?cdn=ystenlive&Contentid=1000000004000024282
+军旅剧场,http://gf.you123.fun:35455/itv/2000000003000000014.m3u8?cdn=hnbblive&Contentid=2000000003000000014
+军事评论,http://gf.you123.fun:35455/itv/2000000003000000022.m3u8?cdn=hnbblive&Contentid=2000000003000000022
+魅力潇湘,http://gf.you123.fun:35455/itv/1000000001000006197.m3u8?cdn=ystenlive&Contentid=1000000001000006197
+明星大片,http://gf.you123.fun:35455/itv/2000000003000000016.m3u8?cdn=hnbblive&Contentid=2000000003000000016
+农业致富,http://gf.you123.fun:35455/itv/2000000003000000003.m3u8?cdn=hnbblive&Contentid=2000000003000000003
+武博世界,http://gf.you123.fun:35455/itv/2000000003000000007.m3u8?cdn=hnbblive&Contentid=2000000003000000007
+炫舞未来,http://gf.you123.fun:35455/itv/1000000001000000515.m3u8?cdn=ystenlive&Contentid=1000000001000000515
+怡伴健康,http://gf.you123.fun:35455/itv/1000000005000266011.m3u8?cdn=ystenlive&Contentid=1000000005000266011
+中国功夫,http://gf.you123.fun:35455/itv/2000000003000000009.m3u8?cdn=hnbblive&Contentid=2000000003000000009
+黑莓电影,http://gf.you123.fun:35455/itv/1000000004000019624.m3u8?cdn=ystenlive&Contentid=1000000004000019624
+黑莓动画,http://gf.you123.fun:35455/itv/1000000004000021734.m3u8?cdn=ystenlive&Contentid=1000000004000021734
+哒啵电竞,http://gf.you123.fun:35455/itv/1000000006000032327.m3u8?cdn=ystenlive&Contentid=1000000006000032327
+哒啵赛事,http://gf.you123.fun:35455/itv/1000000001000003775.m3u8?cdn=ystenlive&Contentid=1000000001000003775
 
 
 
@@ -964,6 +964,47 @@ http://182.40.120.229/test-txdwk.flv.huya.com/src/-10057-A-0-1.m3u8
 
 
 咪咕直播,#genre#
+
+
+咪咕直播4K,http://gf.you123.fun:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+咪咕直播1,http://gf.you123.fun:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+咪咕直播2,http://gf.you123.fun:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+咪咕直播3,http://gf.you123.fun:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+咪咕直播4,http://gf.you123.fun:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+咪咕直播5,http://gf.you123.fun:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+咪咕直播6,http://gf.you123.fun:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+咪咕直播7,http://gf.you123.fun:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+咪咕直播8,http://gf.you123.fun:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+咪咕直播9,http://gf.you123.fun:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+咪咕直播10http://gf.you123.fun:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+咪咕直播11,http://gf.you123.fun:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+咪咕直播12,http://gf.you123.fun:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+咪咕直播13,http://gf.you123.fun:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+咪咕直播14,http://gf.you123.fun:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+咪咕直播15,http://gf.you123.fun:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+咪咕直播16,http://gf.you123.fun:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+咪咕直播17,http://gf.you123.fun:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+咪咕直播18,http://gf.you123.fun:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+咪咕直播19,http://gf.you123.fun:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+咪咕直播20,http://gf.you123.fun:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+咪咕直播21,http://gf.you123.fun:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+咪咕直播22,http://gf.you123.fun:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+咪咕直播23,http://gf.you123.fun:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+咪咕直播24,http://gf.you123.fun:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+咪咕直播25,http://gf.you123.fun:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+咪咕直播26,http://gf.you123.fun:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+咪咕直播27,http://gf.you123.fun:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+咪咕直播28,http://gf.you123.fun:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+咪咕直播29,http://gf.you123.fun:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+咪咕直播30,http://gf.you123.fun:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+咪咕直播31,http://gf.you123.fun:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+咪咕直播32,http://gf.you123.fun:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+咪咕直播33,http://gf.you123.fun:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+咪咕直播34,http://gf.you123.fun:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+咪咕直播35,http://gf.you123.fun:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+咪咕直播36http://gf.you123.fun:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+咪咕直播37,http://gf.you123.fun:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+咪咕直播38,http://gf.you123.fun:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 
 
 咪咕直播4K,http://43.248.128.135:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive

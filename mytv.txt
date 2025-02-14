@@ -145,27 +145,22 @@ CCTV4欧洲,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv4o
 
 
 
-CCTV1,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000501
-CCTV2,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000502
-CCTV3,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000003
-CCTV4,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000503
-CCTV5,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000005
-CCTV5+,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000507
-CCTV6,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000006
-CCTV7,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000504
-CCTV8,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000008
-CCTV9,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000505
-CCTV10,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000506
-CCTV11,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000508
-CCTV12,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000509
-CCTV13,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000510
-CCTV14,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000511
-CCTV15,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000512
-CCTV16,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000016
-CCTV17,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000513
-CETV1,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000046
-CETV2,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000071
-CETV4,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000072
+CCTV1,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8?key=txiptv                   
+CCTV2,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8?key=txiptv                    
+CCTV3,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8?key=txiptv                    
+CCTV4,http://58.220.219.14:9901/tsfile/live/0004_1.m3u8?key=txiptv                    
+CCTV5, http://58.220.219.14:9901/tsfile/live/0005_1.m3u8?key=txiptv                   
+CCTV6,http://58.220.219.14:9901/tsfile/live/0006_1.m3u8?key=txiptv                    
+CCTV7,http://58.220.219.14:9901/tsfile/live/0007_1.m3u8?key=txiptv                    
+CCTV8,http://58.220.219.14:9901/tsfile/live/0008_1.m3u8?key=txiptv                    
+CCTV9,http://58.220.219.14:9901/tsfile/live/0009_1.m3u8?key=txiptv                 
+CCTV10,http://58.220.219.14:9901/tsfile/live/0010_1.m3u8?key=txiptv                    
+CCTV11,http://58.220.219.14:9901/tsfile/live/0011_1.m3u8?key=txiptv                   
+CCTV12,http://58.220.219.14:9901/tsfile/live/0012_1.m3u8?key=txiptv                 
+CCTV13,http://58.220.219.14:9901/tsfile/live/0013_1.m3u8?key=txiptv                  
+CCTV14, http://58.220.219.14:9901/tsfile/live/0014_1.m3u8?key=txiptv                  
+CCTV15,http://58.220.219.14:9901/tsfile/live/0015_1.m3u8?key=txiptv                    
+
 
 CETV1,http://home.dzlove.top:35455/itv/5000000002000002652.m3u8?cdn=bestzb&Contentid=5000000002000002652
 CETV4,http://home.dzlove.top:35455/itv/5000000011000031126.m3u8?cdn=bestzb&Contentid=5000000011000031126
@@ -331,7 +326,39 @@ CGTN西语,http://tv.kmhlzxs.top:35455/itv/1000000006000280002.m3u8?cdn=ystenliv
 三沙卫视,http://117.144.58.42:35455/itv/5000000011000288016.m3u8?cdn=bestzb
 山东教育,http://117.144.58.42:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
 
-
+东方卫视,http://58.220.219.14:9901/tsfile/live/0107_1.m3u8
+江苏卫视,  http://58.220.219.14:9901/tsfile/live/0127_1.m3u8                                          
+安徽卫视, http://58.220.219.14:9901/tsfile/live/0130_1.m3u8                                        
+重庆卫视,  http://58.220.219.14:9901/tsfile/live/0142_1.m3u8                                          
+东南卫视,http://58.220.219.14:9901/tsfile/live/0137_1.m3u8                                       
+深圳卫视, http://58.220.219.14:9901/tsfile/live/0126_1.m3u8                                           
+广东卫视, http://58.220.219.14:9901/tsfile/live/0125_1.m3u8                                          
+广西卫视, http://58.220.219.14:9901/tsfile/live/0113_1.m3u8                                           
+甘肃卫视, http://58.220.219.14:9901/tsfile/live/0141_1.m3u8?key=txiptv                                         
+河北卫视,  http://58.220.219.14:9901/tsfile/live/0117_1.m3u8                                         
+河南卫视,   http://58.220.219.14:9901/tsfile/live/0139_1.m3u8                                         
+黑龙江卫视, http://58.220.219.14:9901/tsfile/live/0143_1.m3u8                                       
+湖北卫视,  http://58.220.219.14:9901/tsfile/live/0132_1.m3u8                                      
+江西卫视,http://58.220.219.14:9901/tsfile/live/0138_1.m3u8                                   
+吉林卫视, http://58.220.219.14:9901/tsfile/live/0116_1.m3u8                                     
+青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030                          
+山东卫视,  http://58.220.219.14:9901/tsfile/live/0131_1.m3u8                                         
+天津卫视,  http://58.220.219.14:9901/tsfile/live/0135_1.m3u8                                        
+海南卫视, http://58.220.219.14:9901/tsfile/live/0016_2.m3u8                                     
+云南卫视, http://58.220.219.14:9901/tsfile/live/0119_1.m3u8?key=txiptv                              
+内蒙古卫视, http://58.220.219.14:9901/tsfile/live/0114_1.m3u8?key=txiptv                              
+陕西卫视,  http://58.220.219.14:9901/tsfile/live/0120_7.m3u8?key=txiptv                                     
+山西卫视,  http://58.220.219.14:9901/tsfile/live/0118_1.m3u8                                  
+贵州卫视,  http://58.220.219.14:9901/tsfile/live/0120_1.m3u8                                       
+辽宁卫视,  http://58.220.219.14:9901/tsfile/live/0121_1.m3u8                                    
+宁夏卫视, http://58.220.219.14:9901/tsfile/live/0112_1.m3u8?key=txiptv                                      
+浙江卫视, http://58.220.219.14:9901/tsfile/live/0124_1.m3u8                                          
+湖南卫视,http://58.220.219.14:9901/tsfile/live/0128_1.m3u8
+北京卫视,http://58.220.219.14:9901/tsfile/live/0122_1.m3u8
+四川卫视,http://58.220.219.14:9901/tsfile/live/0123_1.m3u8
+新疆卫视,http://58.220.219.14:9901/tsfile/live/0120_6.m3u8?key=txiptv
+西藏卫视,http://58.220.219.14:9901/tsfile/live/0120_5.m3u8?key=txiptv
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 
 
 
@@ -404,11 +431,20 @@ CGTN西语,http://tv.kmhlzxs.top:35455/itv/1000000006000280002.m3u8?cdn=ystenliv
 江苏国际,https://025365.xyz:8082/jstv.php?id=jsjy
 江苏教育,https://025365.xyz:8082/jstv.php?id=jsty
 江苏卫视,https://025365.xyz:8082/jstv.php?id=jsws
-江苏影视,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSYS/G_JSYS.m3u8
-江苏综艺,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSZY/G_JSZY.m3u8
-江苏教育,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSJY/G_JSJY.m3u8
-江苏新闻,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSGG/G_JSGG.m3u8
 
+江苏新闻,
+江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
+江苏综艺,http://58.220.219.14:9901/tsfile/live/0120_4.m3u8?key=txiptv
+江苏影视,
+江苏国际,
+江苏教育,
+江苏卫视,
+
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 
 江苏卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=jsws
 江苏城市,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=jscs

@@ -168,18 +168,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 
-央视文化精品,http://180.105.209.130:55555/rptv/G_CCTV-WENHUA-CQ.m3u8?license=gitv
-怀旧剧场,http://180.105.209.130:55555/rptv/G_HUAIJIUJC-CQ.m3u8?license=gitv
-第一剧场,http://180.105.209.130:55555/rptv/G_DIYIJC-CQ.m3u8?license=gitv
-电视指南,http://180.105.209.130:55555/rptv/G_DIANSHIZN-CQ.m3u8?license=gitv
-女性时尚,http://180.105.209.130:55555/rptv/G_NVXINGSS-CQ.m3u8?license=gitv
-高尔夫网球,http://180.105.209.130:55555/rptv/G_CCTV-GOLF-CQ.m3u8?license=gitv
-央视台球,http://180.105.209.130:55555/rptv/G_TAIQIU-CQ.m3u8?license=gitv
-兵器科技,http://180.105.209.130:55555/rptv/G_BINGQIKJ-CQ.m3u8?license=gitv
-风云音乐,http://180.105.209.130:55555/rptv/G_FENGYUNYY-CQ.m3u8?license=gitv
-风云足球,http://180.105.209.130:55555/rptv/G_FENGSHANGZQ-CQ.m3u8?license=gitv
-风云剧场,http://180.105.209.130:55555/rptv/G_FENGYUNJC-CQ.m3u8?license=gitv
-世界地理,http://180.105.209.130:55555/rptv/G_SHIJIEDL-CQ.m3u8?license=gitv
 
 
 
@@ -401,10 +389,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 甘肃卫视,http://123.254.110.101:5000/5000000011000031121/bestzb/index.m3u8
 山西卫视,http://123.254.110.101:5000/1000000002000021220/ystenlive/index.m3u8
 陕西卫视,http://123.254.110.101:5000/5000000006000040017/bestzb/index.m3u8
+陕西卫视,http://123.254.110.101:5000/1000000002000007495/ystenlive/index.m3u8
 新疆卫视,http://123.254.110.101:5000/1000000002000029441.m3u8?livemode=1&stbId=10&cdn=ystenlive/index.m3u8?Contentid=1000000002000029441
 新疆卫视,http://123.254.110.101:5000/1000000002000029441/ystenlive/index.m3u8?Contentid=1000000002000029441
 西藏卫视,http://123.254.110.101:5000/1000000002000015894/ystenlive/index.m3u8?Contentid=1000000002000015894
 兵团卫视,http://123.254.110.101:5000/1000000005000266005/ystenlive/index.m3u8?Contentid=1000000005000266005
+兵团卫视,http://123.254.110.101:5000/5000000006000040020/bestzb/index.m3u8
 安多卫视,http://123.254.110.101:5000/1000000005000266001/ystenlive/index.m3u8?Contentid=1000000005000266001
 康巴卫视,http://123.254.110.101:5000/1000000005000266002/ystenlive/index.m3u8?Contentid=1000000005000266002
 农林卫视,http://123.254.110.101:5000/1000000005000266003/ystenlive/index.m3u8?Contentid=1000000005000266003
@@ -482,9 +472,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 五星体育,http://123.254.110.101:5000/5000000010000017540/bestzb/index.m3u8?Contentid=5000000010000017540
 
 
-第一财经,https://a21709.tv.netsite.cc/proxy/1946402424/1946402424.m3u8
-纪实人文,https://a21709.tv.netsite.cc/proxy/1975883896/1975883896.m3u8
-上海都市,https://a21709.tv.netsite.cc/proxy/2116818558/2116818558.m3u8
+
 
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -496,16 +484,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
-
-浙江卫视,https://a21709.tv.netsite.cc/proxy/2059640241/2059640241.m3u8
-钱江都市,https://a21709.tv.netsite.cc/proxy/2044904392/2044904392.m3u8
-浙江经济生活,https://a21709.tv.netsite.cc/proxy/1529435983/1529435983.m3u8
-浙江民生休闲,https://a21709.tv.netsite.cc/proxy/991769224/991769224.m3u8
-浙江新闻,https://a21709.tv.netsite.cc/proxy/2053951003/2053951003.m3u8
-浙江教科影视,https://a21709.tv.netsite.cc/proxy/833196700/833196700.m3u8
-浙江少儿,https://a21709.tv.netsite.cc/proxy/1658458613/1658458613.m3u8
-浙江国际,https://a21709.tv.netsite.cc/proxy/2031903078/2031903078.m3u8
-之江纪录,https://a21709.tv.netsite.cc/proxy/1044187699/1044187699.m3u8
 
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
@@ -548,9 +526,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 
-CHC高清电影,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=&U=&A=&K=&P=&S=
-CHC动作电影,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=&U=&A=&K=&P=&S=
-CHC家庭影院,http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=&U=&A=&K=&P=&S=
+
 CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -678,18 +654,17 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 
 港澳台频道,#genre#
 
-凤凰资讯,http://180.105.209.130:55555/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv
+
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
-凤凰中文,http://180.105.209.130:55555/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
 凤凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
-凤凰香港,http://180.105.209.130:55555/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
+
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 
@@ -770,60 +745,7 @@ CAT电影,http://litv.zapi.us.kg/?4gtv-4gtv076
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 八大戏剧HD,http://61.221.215.25:8800/hls/39/index.m3u8
 
-港澳台AKTV,#genre#
-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-Now星影台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
-viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-C+台,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+
 
 iHOT频道,#genre#
 

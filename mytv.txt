@@ -660,17 +660,11 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰香港,http://108.181.21.27:27347/livehttpplay?channel_id=30016
 凤凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-凤凰资讯,https://tv.bfsu.edu.cn/hls/fhzx.m3u8
-凤凰中文,https://tv.bfsu.edu.cn/hls/fhzw.m3u8
-凤凰电影,https://tv.bfsu.edu.cn/hls/fhdy.m3u8
-Discovery,https://tv.bfsu.edu.cn/hls/discovery.m3u8
-国家地理,https://tv.bfsu.edu.cn//hls/natlgeo.m3u8
-Channel V,https://tv.bfsu.edu.cn/hls/channelv.m3u8
-星空卫视,https://tv.bfsu.edu.cn/hls/startv.m3u8
-Star Sports,https://tv.bfsu.edu.cn/hls/starsports.m3u8
+
 
 
 
@@ -697,7 +691,12 @@ TVB武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 
 莲花卫视,http://php.jdshipin.com:8880/amlh.php
-
+龙华电影,http://108.181.21.27:27347/livehttpplay?channel_id=10129
+龙华洋片,http://108.181.21.27:27347/livehttpplay?channel_id=20090
+美亚电影,http://108.181.21.27:27347/livehttpplay?channel_id=20197
+壹电影,http://108.181.21.27:27347/livehttpplay?channel_id=20108
+中天综合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
+CNN,http://108.181.21.27:27347/livehttpplay?channel_id=10123
 
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 
@@ -710,16 +709,17 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 
-中天新闻,
+
 中天新闻,http://litv.zapi.us.kg/?4gtv-4gtv009
-TVBS欢乐台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
-TVBS,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+
+TVBS,http://108.181.21.27:27347/livehttpplay?channel_id=20085
 TVBS,http://litv.zapi.us.kg/?4gtv-4gtv073
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS新闻台,http:////litv.zapi.us.kg/?4gtv-4gtv072
 
 TVBS新闻台,http://litv.zapi.us.kg/?4gtv-4gtv072
 TVBS欢乐台,http://litv.zapi.us.kg/?4gtv-4gtv068
+TVBS精彩,http://108.181.21.27:27347/livehttpplay?channel_id=20136
 TVBS精采,http://litv.zapi.us.kg/?4gtv-4gtv067
 
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
